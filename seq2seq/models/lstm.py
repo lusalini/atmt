@@ -248,7 +248,9 @@ class LSTMDecoder(Seq2SeqDecoder):
             tgt_hidden_states = [torch.zeros(tgt_inputs.size()[0], self.hidden_size) for i in range(len(self.layers))]
             tgt_cell_states = [torch.zeros(tgt_inputs.size()[0], self.hidden_size) for i in range(len(self.layers))]
             input_feed = tgt_embeddings.data.new(batch_size, self.hidden_size).zero_()
-
+        if self.layers[0].weight_ih.is_cuda:
+            tgt_hidden_states = utils.move_to_cuda(tgt_hidden_states)
+            tgt_cell_states = utils.move_to_cuda(tgt_cell_states)
         # Initialize attention output node
         attn_weights = tgt_embeddings.data.new(batch_size, tgt_time_steps, src_time_steps).zero_()
         rnn_outputs = []
