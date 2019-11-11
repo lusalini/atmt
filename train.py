@@ -23,7 +23,7 @@ def get_args():
     parser.add_argument('--data', default='indomain/prepared_data', help='path to data directory')
     parser.add_argument('--source-lang', default='de', help='source language')
     parser.add_argument('--target-lang', default='en', help='target language')
-    parser.add_argument('--max-tokens', default=None, type=int, help='maximum number of tokens in a batch')
+    parser.add_argument('--max-tokens', default=1000, type=int, help='maximum number of tokens in a batch')
     parser.add_argument('--batch-size', default=1, type=int, help='maximum number of sentences in a batch')
     parser.add_argument('--train-on-tiny', action='store_true', help='train model on a tiny dataset')
 
