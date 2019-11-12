@@ -1,0 +1,500 @@
+▁Alle ▁auf ▁dem ▁Gerät ▁install ierten ▁B üch er
+▁Bild dateien ▁anzeigen ▁und ▁bearbeiten
+▁Unbekannter ▁St and art t yp ▁% d
+▁ & H il fe
+▁K ür zel b esch ri f tung
+▁Datenträger p arameter
+▁D es c ent ▁1
+▁# B eschädig t : ▁% ld
+▁K li pp er
+▁S n ake 4
+▁Konnte ▁W ri te B oot stra p ▁nicht ▁öffnen . ▁Datei : ▁% s : ▁ERR =% s
+▁Dienst name :
+▁Ein ▁Fenster ▁zum ▁Fot o graf ieren ▁auswählen
+▁Ein geb au te ▁Shell - K ommand os ▁aktivieren ▁und ▁deaktiv ieren . ▁Aktiv iert ▁und ▁deaktiv iert ▁ein geb au te ▁Shell - K ommand os . ▁Die ▁De aktiv ierung ▁erlaubt ▁I hnen , ▁ eigen e ▁Kommandos ▁mit ▁dem s el ben ▁Namen ▁wie ▁die ▁ein geb au ten ▁Kommandos ▁zu ▁n utz en , ▁ohne ▁den ▁k omp let ten ▁P fad ▁angeben ▁zu ▁müssen . ▁Optionen : ▁- a \ tG ibt ▁eine ▁Liste ▁der ▁ein geb au ten ▁Kommandos ▁aus ▁in k l us ive ▁der ▁\ t \ t In form ation , ▁ob ▁sie ▁aktiv ▁sind ▁oder ▁nicht . ▁- n \ t de aktiv iert ▁je des ▁NAME ▁oder ▁gibt ▁eine ▁Liste ▁der ▁deaktiv ierten ▁\ t \ t ein geb au ten ▁Kommandos ▁aus . ▁- p \ tG ibt ▁eine ▁Liste ▁der ▁ein geb au ten ▁Kommandos ▁in ▁einem ▁\ t \ t w ieder ver wend bar en ▁Format ▁aus . ▁- s \ tG ibt ▁nur ▁die ▁Namen ▁der ▁» sp e z ie llen « ▁in ▁P OS I X ▁ein geb au ten ▁\ t \ t K ommand os ▁aus . ▁Optionen ▁zur ▁Kon tro lle ▁des ▁d ynam ischen ▁La den s : ▁- f \ t L ade ▁ein geb aut es ▁Kommando ▁NAME ▁aus ▁dem ▁get eil ten ▁Objekt ▁\ t \ tD ATEI N AME . ▁- d \ t Ent fernt ▁ein ▁mit ▁»- f « ▁ge laden es ▁ein geb aut es ▁Kommando . ▁O hne ▁Optionen ▁ist ▁je des ▁NAME ▁aktiviert . ▁Um ▁das ▁unter ▁$ P AT H ▁l ie gen de ▁Kommando ▁» te st « ▁an stelle ▁der ▁ein geb au ten ▁Version ▁zu ▁n utz en , ▁geben ▁Sie ▁» en able ▁- n ▁ te st « ▁ein . ▁Rückgabewert : ▁Gibt ▁» Erfolg « ▁zurück , ▁außer ▁NAME ▁ist ▁kein ▁ein geb aut es ▁Kommando ▁oder ▁ein ▁Fehler ▁ tr itt ▁auf .
+▁m i a - l mp ick ▁Version ▁0 . 2 . 1 0
+▁Op h c ra ck
+▁Kar l ▁E ich wal der ▁< ke \ @ s us e \. de > ▁C hr ist ian ▁M e y er ▁< ch r is im e \ @ gn ome \. org > ▁C hr ist ian ▁N e um a ir ▁< ch r ist ian \ - ne um a ir \ @ w eb \. de > ▁C ar sten ▁Sch a ar ▁< n h ad c as c \ @ f s \ - m ap h y \. un i \ - h ann o ver \. de > ▁M att h i as ▁War k us ▁< m a war k us \ @ gn ome \. org > ▁F r ank ▁Ar n ol d ▁< f r ank \ @ sc i ro c co \ - 5 v \ - t ur bo \. de > ▁Man u el ▁B or ch ers ▁< m \. b or ch ers \ @ gn ome \ - de \. org > ▁H end r ik ▁R ich ter ▁< hr ich ter \ @ gn ome \. org > ▁Ben edi kt ▁W ick l ein ▁< ben edi kt \. wick l ein \ @ g o og lem ail \. c om > ▁P h il i pp ▁K er l ing ▁< k \. ph il i pp \ @ g m ail \. c om > ▁B j ör n ▁D ei ser ot h ▁< ser v ice \ @ d u al \ - c re ator s \. de > ▁An d re ▁K la pp er ▁< ak \ - 4 7 \ @ g m x \. net > ▁M ari o ▁B lä t ter m ann ▁< m ari o \. b la et ter m ann \ @ g m ail \. c om > ▁C hr ist ian ▁K ir b ach ▁< C hr ist ian \. K ir b ach \ @ g o og lem ail \. c om > ▁La un ch p ad ▁Con trib u tion s : ▁Ben j am in ▁St ein w ender ▁h t t ps : / / la un ch p ad . net / ~ b - u ▁C hr ist ian ▁K ir b ach ▁h t t ps : / / la un ch p ad . net / ~ ch r ist ian - k ir b ach - e ▁J ak ob ▁K ra mer ▁h t t ps : / / la un ch p ad . net / ~ j ak ob k ▁M ari o ▁B lä t ter m ann ▁h t t ps : / / la un ch p ad . net / ~ m ari o . b la et ter m ann
+▁F our te en
+▁Erweiter te ▁inter aktiv e ▁Python - Kon sole
+▁überspr ungen
+▁g F TP
+▁Titel informationen ▁kon nten ▁nicht ▁abge fra gt ▁werden
+▁% s : ▁Un def in ierte ▁Version : ▁% s
+▁F ü gt ▁ein ▁Verzeichnis ▁dem ▁Stapel ▁hinzu . ▁Le gt ▁einen ▁Verzeichnis namen ▁auf ▁den ▁Verzeichnis stapel ▁oder ▁ro tiert ▁diesen ▁so , ▁dass ▁das ▁Arbeits verzeichnis ▁auf ▁der ▁Sp it ze ▁des ▁Stapel s ▁l ie gt . ▁O hne ▁Argumente ▁werden ▁die ▁o ber sten ▁zwei ▁Verzeichnis se ▁auf ▁dem ▁Stapel ▁ver t au scht . ▁Optionen : ▁- n \ t Un ter d rück t ▁das ▁W echseln ▁in ▁das ▁Verzeichnis ▁beim ▁Hin zufügen ▁\ t \ tz um ▁Stapel , ▁s od ass ▁nur ▁der ▁Stapel ▁ver ändert ▁wird . ▁Argumente : ▁ + N \ t R o tiert ▁den ▁Stapel ▁so , ▁dass ▁das ▁N - te ▁Verzeichnis ▁\ t \ t ( ange zeigt ▁von ▁» d ir s «, ▁ge z ähl t ▁von ▁l inks ) ▁sich ▁an ▁der ▁Sp it ze ▁\ t \ t des ▁Stapel s ▁be f ind et . ▁- N \ t R o tiert ▁den ▁Stapel ▁so , ▁dass ▁das ▁N - te ▁Verzeichnis ▁( ange zeigt ▁von ▁\ t \ t » d ir s «, ▁ge z ähl t ▁von ▁ rech ts ) ▁sich ▁an ▁der ▁Sp it ze ▁des ▁Stapel s ▁\ t \ t be f ind et . ▁Verzeichnis \ t L e gt ▁V ER ZEICH N IS ▁auf ▁die ▁Sp it ze ▁des ▁Verzeichnis stapel s ▁und ▁\ t \ t w echs elt ▁d ort hin . ▁Der ▁Verzeichnis stapel ▁kann ▁mit ▁dem ▁Kommando ▁» d ir s « ▁angezeigt ▁werden .
+▁Fehler : ▁% B ▁n utzt ▁keine ▁M a ver ick - An weis ungen , ▁% B ▁je d och ▁sch on
+▁M ig r ation ▁Job ▁T ype ▁Schlüssel wort ▁erwartet , ▁erhalten : ▁% s
+▁Ar p eg g i ator - S e qu en c er - L F O
+▁B es ei ti gt ▁die ▁k ur ze ▁Wiedergabe - P aus e ▁zwischen ▁zwei ▁Titel n . ▁N ütz lich ▁für ▁Kon ze pt al ben ▁und ▁kl ass ische ▁Musik
+▁V oll te x ts uch e ▁für ▁Sy l p he ed
+▁% P : ▁kann ▁Z wei g - S tu b ▁»% s « ▁nicht ▁finden
+▁H olen : err or I gn
+▁Ungültige ▁N utz ungs d au er ▁definiert : ▁% s
+▁B arr y - Ar bei t sp l atz leiste
+▁% B : ▁S h _ l ink ▁[% d ] ▁in ▁Abschnitt ▁»% A « ▁ist ▁f alsch
+▁Q V i ag g i a T r en o
+▁Nach bild ung ▁des ▁Mehr spiel er modus ▁vom ▁E g o - S hooter ▁D o om
+▁Download s , ▁letz ter ▁Mon at :
+▁In fo
+▁fehl t
+▁Kanal ▁% d ▁nicht ▁definiert
+▁% s : ▁Kann ▁die ▁Vor gabe - AC L ▁von ▁"% s " ▁nicht ▁setzen : ▁% s
+▁Name ▁% s ▁L änge ▁% d ▁zu ▁l ang , ▁M axim um ▁ist ▁% d
+▁% B (% A ): ▁Interner ▁Fehler : ▁A ußer halb ▁des ▁zu lä ss igen ▁Bereich s
+▁Ge om etr ische ▁Kon st ru ktion en ▁unter suchen
+▁Medien ▁im _ p ortieren ▁...
+▁Multi b y te - Z eichen ket te ▁nach ▁»% s « ▁kann ▁nicht ▁d ek od iert ▁werden .
+▁Ex ec ut able P at h ▁des ▁Ber icht s ▁über sch reiben
+▁Das ▁Spiel ▁hat ▁keine ▁Lösung . ▁M ach en ▁Sie ▁Z ü ge ▁ rück g än g ig ▁oder ▁starten ▁Sie ▁er neut .
+▁G w y d d ion
+▁Konfigur iert ▁Re ad line - T ast en zu ord n ungen ▁und ▁Variablen . ▁W ei st ▁eine ▁Tast en se quenz ▁einer ▁Re ad line - F unktion ▁oder ▁einem ▁M ak ro ▁zu ▁oder ▁s etzt ▁eine ▁Re ad line - V ariab le . ▁Die ▁Argument s y nt ax ▁n on - option ▁ist ▁zu ▁den ▁Ein trä gen ▁in ▁~ / . in p ut r c ▁ ä qu iv al ent , ▁aber ▁sie ▁müssen ▁als ▁ein z eln es ▁Argument ▁über geben ▁werden . ▁Z . B . : ▁b ind ▁' " \ \ C - x \ \ C - r " : ▁re - re ad - in it - file ' . ▁Optionen : ▁- m ▁K e y m ap ▁Ben utzt ▁K E Y M A P ▁a s ▁Tastatur be le g ung ▁für ▁die ▁Lauf zeit ▁dieses ▁Kommandos . ▁G ülti ge ▁K e y m ap - N amen ▁sind : ▁em ac s , ▁em ac s - st andard , ▁em ac s - met a , ▁em ac s - ct lx , ▁v i , ▁v i - mo v e , ▁v i - c ommand ▁und ▁v i - in ser t . ▁- l ▁L ist et ▁Funktion s namen ▁auf . ▁- P ▁L ist et ▁Funktion s namen ▁und ▁Tast en zu ord n ungen ▁auf . ▁- p ▁L ist et ▁Funktion s namen ▁und ▁Tast en zu ord n ungen ▁so ▁auf , ▁dass ▁sie ▁d ire kt ▁als ▁Eingabe ▁verwendet ▁werden ▁können . ▁- S ▁L ist et ▁Tast en f olgen ▁und ▁der en ▁W erte ▁auf , ▁die ▁M ak ro s ▁auf ruf en . ▁- s ▁L ist et ▁Tast en f olgen ▁und ▁der en ▁W erte ▁auf , ▁die ▁M ak ro s ▁auf ruf en , ▁dass ▁sie ▁als ▁Eingabe ▁wieder ver wendet ▁werden ▁können . ▁- V ▁L ist et ▁Variab l enn amen ▁und ▁W erte ▁auf . ▁- v ▁L ist et ▁Variab l enn amen ▁und ▁W erte ▁so ▁auf , ▁dass ▁sie ▁als ▁Eingabe ▁verwendet ▁werden ▁können . ▁- q ▁Funktion s name ▁Such t ▁die ▁Tast en f olgen , ▁wel che ▁die ▁angegeben e ▁Funktion ▁auf ruf en . ▁- u ▁Funktion s name ▁Ent fernt ▁alle ▁der ▁Funktion ▁zuge ord net en ▁Tast en f olgen . ▁- r ▁Tast en fol ge ▁Ent fernt ▁die ▁Zu weis ungen ▁der ▁angegebenen ▁Tast en fol ge . ▁- f ▁Datein ame ▁L ie st ▁die ▁Tast en zu ord n ungen ▁aus ▁der ▁angegebenen ▁Datei . ▁- x ▁Tast en fol ge : S hell - K ommand o \ t W ei st ▁der ▁Tast en fol ge ▁das ▁Shell - K ommand o ▁\ t \ t \ t \ t \ tz u . ▁Rückgabewert : ▁B ind ▁gibt ▁0 ▁zurück , ▁wenn ▁keine ▁un er kann te ▁Option ▁angegeben ▁wurde ▁oder ▁ein ▁Fehler ▁ein tr at .
+▁M enü
+▁In st Ver
+▁% s % s % s : ▁% s ▁( Fehler ver ur s ach endes ▁Zeichen ▁ist ▁»% s « ).
+▁Vor def in ierte ▁in te ll igen te ▁Wiedergabe listen
+▁Dateien de ▁beim ▁S uchen ▁nach ▁p assen der ▁» ) « ▁er r eicht .
+▁K N em o
+▁Version :
+▁Aptitude ▁einrichten .
+▁In te ll igen te ▁Wiedergabeliste ▁löschen
+▁Fest plat ten be le g ung ▁analysieren
+▁Entfernen ▁Sie ▁die ▁Karo - Fünf .
+▁Kein ▁Job ▁für ▁Job Id ▁% s ▁gefunden
+▁Zusätzliche ▁Graf ik an wendungen
+▁Karo - Vier
+▁S ix te en
+▁O ne ▁I s ▁En o ug h
+▁Sch ie ber
+▁-- > ▁R un =% s
+▁J ar g on ▁In format i qu e
+▁Ein ▁einfach es ▁Musik qu iz ▁für ▁GNU / L in ux
+▁W x G e om etr ie
+▁K u gel n ▁entfernen
+▁Un t ot
+▁Name
+▁% s ▁wird ▁ent pack t
+▁Media ▁Eintrag ▁für ▁Vol ume ▁"% s " ▁nicht ▁gefunden .
+▁Aus wer ten ▁der ▁aktuell ▁ge wähl ten ▁Lösung ▁des ▁Abhängigkei t sp ro blem s
+▁Legen ▁Sie ▁~ a ▁auf ▁ein ▁leer es ▁E ck feld .
+▁M öchten ▁Sie ▁fort f ahren ▁[ J / n ] ?
+▁Durch ▁Zusammen fü gen ▁von ▁n ummer ierten ▁K ach eln ▁das ▁P uzz le ▁lö sen
+▁C hem t ool
+▁K A t om ic
+▁Grafische ▁D ar stellung ▁von ▁P rim ern ▁für ▁P C R ▁und ▁Se qu en c ing
+▁W er den ▁Sie ▁diese ▁W ing d ow s - V ir en ▁l os !
+▁Q s ynth ▁ist ▁eine ▁grafische ▁F lu id S ynth ▁Qt - Ben utzer oberfläche
+▁Profil ▁% s : ▁enthält ▁z usammen ge führ te ▁Re gel ▁% s ▁mit ▁in ▁Kon fli kt ▁ste h enden ▁x - M o di f iz ier ern
+▁ lem on
+▁Hin weis : ▁»% s « ▁wird ▁an ▁Ste lle ▁von ▁»% s « ▁ge wähl t .
+▁Last . _ fm
+▁Problem informationen ▁werden ▁ges amm elt
+▁Herunterladen ▁von ▁% s ▁fehlgeschlagen : ▁% s
+▁S w i ft
+▁Konnte ▁Datenbank ▁"% s " ▁nicht ▁öff en .
+▁B ac u la - Sch lüssel ▁kann ▁nicht ▁zur ▁System re g istr ierung ▁hinzugefügt ▁werden
+▁% s ▁konnte ▁nicht ▁geöffnet ▁werden , ▁um ▁Aktionen ▁zu ▁p rotokoll ieren .
+▁Blu et oot h - Über trag ung
+▁Fehler : ▁bas ed ir ▁'% s ' ▁ist ▁kein ▁Verzeichnis ▁- ▁überspr ingen .
+▁Der ▁angegeben e ▁Schlüssel ▁konnte ▁nicht ▁entfernt ▁werden . ▁Über prüfen ▁Sie , ▁ob ▁Sie ▁den ▁ rich ti gen ▁F in ger ab druck ▁angegeben ▁haben .
+▁Ihre ▁An frage ▁hat ▁mehr ere ▁M öglich kei ten ▁für ▁»% s «. ▁Die ▁Aus wahl ▁ist ▁im ▁B at ch - Modus ▁nicht ▁möglich .
+▁[% s ] ▁% s
+▁Ein ▁3 D - Spiel ▁basieren d ▁auf ▁ „ R ub ik s ▁W ür f el “
+▁Sy nt ax ▁Fehler : ▁Op erator ▁erwartet .
+▁ + + ▁-- > ▁überspr ingen , ▁E l tern version ▁ist ▁nicht ▁die ▁ge wähl te ▁Version
+▁% B (% s ): ▁Warnung : ▁Zusammen arbei t ▁nicht ▁aktiviert . ▁Er st es ▁Auf treten : ▁% B : ▁AR M - Auf ruf ▁an ▁T h um b
+▁System - Auf träge
+▁Die ▁Anwendung ▁App ort ▁re ag iert ▁nicht ▁mehr .
+▁G eb ra uch s daten ▁löschen ▁...
+▁La un ch p ad - Er weiter ung ▁für ▁F ire fo x
+▁M i ro ▁G u ide ▁Podcast - Ver zeichnis
+▁ 8 c ard ▁symbol
+▁Konfigurations - W erkzeug ▁zu ▁» L apt op ▁M ode ▁T ool s «
+▁% s : ▁bas e - pl us - Ver satz um wandlung ▁gegen ▁Re g ist ers ymbol : ▁( un bekann t ) ▁in ▁% s
+▁Wiedergabe ▁k omp let t ▁an halten
+▁D op e war s
+▁Er mög licht ▁es , ▁sich ▁die ▁M aus ▁und ▁den ▁M aus zei ger ▁mit ▁anderen ▁Rech n ern ▁zu ▁t eilen
+▁Die ▁Met h ode ▁»% w h at :1« ▁ist ▁in ▁»% w her e : 2 « ▁nicht ▁imp lemen tiert .
+▁B att le ▁f or ▁s ur v iv al
+▁Dienst be fehl s l änge ▁zu ▁l ang
+▁{0} ▁- ▁{ 1} ▁von ▁{ 2 } ▁wird ▁ge laden
+▁Graf ischer ▁E ditor ▁für ▁P S T ri ck s
+▁P ac em ak er
+▁B etrachter ▁für ▁Dateien ▁im ▁E S R F - Daten format
+▁Anzeige format ▁für ▁die ▁Status zeile
+▁E igen er
+▁C L I P S
+▁Ges am tz ahl ▁an ▁unter schie d lichen ▁Version en :
+▁»% s « ▁kann ▁nicht ▁entfernt ▁werden .
+▁Ein ▁Werkzeug ▁zur ▁Ber ein ig ung ▁der ▁G C on f - Datenbank
+▁H ier ar ch isches ▁No ti z buch ▁zur ▁Eingabe ▁und ▁Verwaltung ▁von ▁No ti zen ▁und ▁I de en
+▁C l one ▁Job Id ▁% d ▁gest artet .
+▁Sch reib tra in er
+▁Die ▁Tast en be le g ung ▁an sehen
+▁% B (% s ): ▁Warnung : ▁Zusammen arbei t ▁ist ▁nicht ▁ein gesch altet . ▁Er ste ▁Er sch ein ung : ▁% B : ▁T h um b ▁ ruf t ▁a r m ▁Er w ä ge ▁Neu ver b indung ▁mit ▁-- s u pp ort - ol d - c ode ▁ein gesch altet
+▁Bibliothek s über wach ung
+▁U r he ber
+▁Grafische ▁Oberfläche ▁für ▁d i ver se ▁Z ip - F orm ate
+▁M enü ob jekt
+▁Mit ▁Sch ab l on en ▁B ro sch ür en ▁aus ▁PDF - Dokum enten ▁erstellen
+▁b p y thon
+▁Verb lei ben de ▁Neu ver t eil ungen : ▁~ a
+▁X D ot
+▁Wert
+▁L ern k art ei karten - P rogramm
+▁ q c om ic bo ok
+▁Nach ▁dies em ▁Vor gang ▁werden ▁% sB ▁Fest plat ten platz ▁z usätz lich ▁benutzt .
+▁W erk _ zeu ge
+▁% sB ▁der ▁Fest plat te ▁werden ▁be legt .
+▁Über wach ung ▁von ▁C P U , ▁H au pt speicher , ▁Lauf werk en , ▁Netzwerk , ▁E - Mail
+▁X ser ver ▁Zugriff s - Ein sch rän k ung ▁( St andard : ▁d ire kt )
+▁_ G en re : o f
+▁M is s ge st altet es ▁O ver ri de ▁% s ▁Zeile ▁% ll u ▁# 2
+▁Es ▁konnte ▁keine ▁Verbindung ▁zur ▁Fehler daten bank ▁auf geb aut ▁werden . ▁Bitte ▁p r ü fen ▁Sie ▁Ihre ▁Internet ver b indung .
+▁Benutzer oberfläche ▁ver ber gen
+▁Neu es ▁Fenster ▁öffnen
+▁-- > ▁R un O n F ail ur e =% u
+▁W ird ▁nicht ▁mehr ▁benutzt
+▁Fehler ▁beim ▁Auf lö sen ▁der ▁Adresse ▁'% s ': ▁% s
+▁M is s ge st altet es ▁O ver ri de ▁% s ▁Zeile ▁% ll u ▁# 3
+▁L izenz ▁GP L v 3 + : ▁GNU ▁GP L ▁Version ▁3 ▁oder ▁j ün ger ▁< ht t p \ : \ / \ / gn u \. org \ / li c ens es \ / g pl \. ht m l >
+▁S at ell i ten ver folg ungsp rogramm
+▁Falsch er ▁Se ktion s name ▁»% s « ▁( » n one «, ▁» t op d ir «, ▁» s ub d ir « ▁oder ▁» s ub d ir s « ▁verwenden )
+▁Die ▁Datei verwaltung ▁von ▁En l ig h ten ment
+▁Ein ▁B log g ing - Client ▁für ▁W ord P ress - B lo gs
+▁C lin ic a
+▁B o ts ▁an s ie del n
+▁Warnung : ▁% s : ▁% s
+▁Konnte ▁"% s " ▁für ▁% s ▁nicht ▁setzen
+▁Ab on n ieren
+▁% s ▁wurde ▁als ▁automatisch ▁installiert ▁fest ge legt .
+▁Die ▁er ste ▁Lösung ▁dieser ▁Abhängigkei t sp ro blem e ▁w ählen
+▁Ex ul t ▁U lti m a ▁ 7 ▁En g ine
+▁K am erk a
+▁O kt et a
+▁S im p le B ur n
+▁% B (% A ): ▁Warnung : ▁Nicht ▁ ger icht eter ▁Zugriff ▁auf ▁Symbol ▁»% s « ▁im ▁kl einen ▁Daten bereich
+▁Legen ▁Sie ▁~ a ▁auf ▁einen ▁leer es ▁Pl atz ▁ rech ts .
+▁Nach b au ▁von ▁» Sc or che d ▁E ar th «
+▁L I NG OT ▁I s ▁N ot ▁a ▁G u it ar - O n l y ▁T un er
+▁Filter , ▁um ▁U R L - ar tige ▁Kon st ru k te ▁zu ▁überspr ingen
+▁Verb es ser te , ▁d ynam ische , ▁K ach el - F enster verwaltung
+▁Vor w är ts ▁suchen
+▁I c emon
+▁P C B - S u ite
+▁St art ▁Sich erung ▁Job Id ▁% s , ▁Job =% s
+▁die ▁Karo - Dame
+▁S on y - P lay St ation - Emulator
+▁Fort sch rit ts b al k en
+▁% B : ▁Warnung : ▁Zu ge wiesen er ▁Abschnitt ▁»% s « ▁nicht ▁im ▁S eg ment
+▁Browser ▁für ▁Deb ian - Dokum ent ationen
+▁Verbindung ▁zu ▁{0} ▁wird ▁ge trenn t ▁...
+▁Eine ▁Erweiter ung ▁für ▁T o te m , ▁um ▁St ream ing - In hal te ▁von ▁a r te . t v ▁an zu sch au en
+▁Vor ber ei tung ▁zum ▁Herunterladen ▁der ▁Änder ungsprotokoll e
+▁% S * % N ▁% s ▁[ Version ▁% s ] % n
+▁Dateien W ieder her stellen
+▁Ordner ▁auswählen
+▁F ro gr
+▁T ag u a
+▁Ordner
+▁% s : ▁Das ▁Nicht - f d p ic - O bjekt ▁kann ▁nicht ▁in ▁die ▁aus führ bar e ▁f d p ic - Datei ▁ge lin kt ▁werden
+▁O d ess a ▁ist ▁ein ▁bes ser es ▁Spiel . ▁W ir k lich .
+▁Das ▁A ben te u er ▁eines ▁j ungen ▁F ro sch es
+▁O K
+▁{0} ▁wird ▁ausge w or fen ▁... Audio ▁CD " ▁ or ▁" D VD
+▁K la v ier spiel
+▁Le g iti m ierung sp ro blem : ▁En fern ter ▁S erver ▁erforder t ▁TLS .
+▁E le kt ron ischer ▁No ti z b lock
+▁R oll leiste
+▁Aptitude ▁konnte ▁keine ▁Lösung ▁für ▁diese ▁Abhängigkeiten ▁finden . ▁Sie ▁können ▁diese ▁s el ber ▁auf lö sen ▁oder ▁» n « ▁zum ▁Beenden ▁ein geben .
+▁Ein ▁Ben utz ern ame ▁für ▁Po st g re S QL ▁muss ▁angegeben ▁werden .
+▁Quell en ang aben ▁und ▁Z it ate ▁in ▁Ihr en ▁Ver öff ent lich ug nen ▁verwalten
+▁Die ▁f r ü her e ▁Version ▁% s ▁von ▁% s ▁ist ▁bereits ▁installiert
+▁Kre ativ es ▁Fot os amm lungs werkzeug
+▁F inden ▁Sie ▁mit ▁Hilfe ▁des ▁Namen s ▁oder ▁In hal ts ▁a ll es , ▁w as ▁Sie ▁auf ▁dies em ▁Rechner ▁suchen , ▁mit ▁T ra ck er
+▁Keine ▁Pakete ▁gefunden ▁-- ▁geben ▁Sie ▁n ull ▁oder ▁mehr ere ▁W ur z eln ▁der ▁Suche ▁gef ol gt ▁vom ▁Paket ▁ein .
+▁Fehler ▁beim ▁Sch reiben ▁der ▁Status datei
+▁Künstler
+▁Py B ri d ge
+▁W issen schaft sp aket e ▁durchsuchen
+▁Ein ▁graf isches ▁Hil f sprogramm ▁zum ▁Herunter f ahren ▁des ▁Rechner s
+▁Nicht - O ver lay - G r öße ▁von ▁0 x % v ▁p l us ▁m axim aler ▁O ver lay - G r öße ▁von ▁0 x % v ▁über st eigt ▁l ok alen ▁Speicher
+▁System
+▁Neu es ▁Video - CD - Pro jekt
+▁E le kt ron ik pro je k te ▁erstellen ▁und ▁bearbeiten ▁mit ▁x g sch 2 p c b
+▁C hin es isches ▁Sch ach
+▁Fehler ▁beim ▁S etzen ▁der ▁P uffer größe ▁% lu : ▁% s
+▁F y re
+▁Video - Un ter titel ▁für ▁die ▁GNOME - Ar beits umgebung
+▁Fehler ▁beim ▁Sch reiben ▁der ▁K opf zei len ▁in ▁die ▁In hal ts datei
+▁Mit ▁M IDI ▁st eu er bar e ▁Audio wiedergabe
+▁C ompil er : ▁g + + ▁% s
+▁Einfach e ▁Text bearbeitung
+▁Ungültige ▁Ste ck platz - N ummer : ▁% s
+▁Wörter buch al i as e ▁erzeugen
+▁- l , -- list ▁Verb ind ungen ▁der ▁P ort s ▁auf listen
+▁Ber icht ▁kann ▁nicht ▁er stellt ▁werden
+▁L un ch
+▁Das ▁Element ▁» s ink « ▁konnte ▁nicht ▁erzeugt ▁werden
+▁Herunterladen ▁der ▁Aktualis ierung ▁beendet
+▁Variable ▁Bit rate ▁verwenden
+▁Min i h il fe
+▁o ff
+▁e Mus ic - T ite l ▁werden ▁heruntergeladen
+▁e Mus ic ▁durchsuchen
+▁Gen erator ▁für ▁M at h - Ar beits b lä t ter ▁für ▁f r anz ö s ische ▁C oll e ge s
+▁Neu es ▁Spiel
+▁ q r q
+▁In k re men te ll
+▁Eine ▁grafische ▁Oberfläche ▁für ▁die ▁» Ar g y ll ▁C M S «- B ild schirm k al ib r ierungs werk zeu ge
+▁K ern el ▁P an ic
+▁Datein ame ▁der ▁Er setz ungs liste
+▁P ump a
+▁Ungültige ▁Sich er h ei ts st uf e ▁»% s « ▁( n icht ▁» dis c ard «, ▁» m axim um «, ▁» min im um « ▁oder ▁eine ▁G anz zahl ).
+▁k ps
+▁Sch n ell e ▁No ti zen ▁aus ▁der ▁Z wischen ab la ge ▁erstellen
+▁Le eren
+▁Hilfe ▁und ▁D okum ent ation
+▁Z ul etzt ▁wieder gegeben
+▁At ome ▁und ▁ander e ▁ch em ische ▁System e ▁an sehen ▁und ▁ver ändern
+▁Über g rei fen de ▁Bibliothek
+▁F orm ▁der ▁Un ic o den orm alis ierung : ▁» n one «, ▁» n f d «, ▁» n f c «, ▁» c omp «
+▁Abhängigkeiten
+▁s e le ct ▁Name ▁[ in ▁Wort liste ▁... ▁ ; ] ▁d o ▁Kommandos ; ▁d one
+▁% B % s % b ▁wird ▁installiert .
+▁G ü nt her ' s ▁R S S ▁Re ader
+▁Pro F TP D - F TP - Server - Ad min istr ation
+▁Z er st ör en ▁Sie ▁die ▁B as en ▁der ▁F ein de ▁im ▁W el tra um
+▁Ver suchen ▁Sie , ▁eine ▁Kar te ▁in ▁den ▁R es erv est apel ▁zu ▁le gen
+▁L yn is ▁Au di ti er ungs werkzeug
+▁Warnung : ▁Die ▁Option ▁»- C « ▁kön nte ▁un erwartet e ▁Er geb nis se ▁l ie fern .
+▁U r he ber rech t ▁( C ) ▁2 00 5 ▁C hr ist ian ▁M as op u st ▁G esch rieben ▁von ▁C hr ist ian ▁M as op u st ▁( 2 00 5 ) ▁Version :
+▁Ver fügbar e ▁Paket akt ualisierung :
+▁Name ▁der ▁H au pt - W ort liste
+▁Ein ▁ qu al it ativ ▁h och wer tige s ▁Ch at programm ▁für ▁Sp iele ▁mit ▁ ger in ger ▁L aten z zeit
+▁\ \ % B : ▁Warnung : ▁AR M - B L X - An weisung ▁hat ▁AR M - F unktion ▁»% s « ▁als ▁Z iel .
+▁ 5 c ard ▁symbol
+▁Vor ▁dem ▁Rück spr ung ▁den ▁H ost name ▁des ▁s e le k ti er ten ▁Dienst es \ r ▁automatisch ▁auf lö sen
+▁Sp iele ▁C re ative ▁L ab s ▁Ch ann el - Datei ▁'% s ' ...
+▁F : ▁Fehler ▁ge h ör en ▁zu ▁Datei
+▁Open ▁Y ah tz e e
+▁An ge halten ▁( T erminal ein gabe )
+▁In te gr ierte ▁Python - Ent wick lungs umgebung
+▁X our n al
+▁B P M - Er kenn ung st rei ber ▁konnte ▁nicht ▁er stellt ▁werden .
+▁Ver altet ▁– ▁b itte ▁verwenden ▁Sie : ▁-- s a fe - up grade
+▁ r l v m
+▁N av it
+▁Die ▁Standard - P rogramm al tern ativ en ▁des ▁System s ▁in ▁/ et c / al tern ativ es
+▁So fort n achrichten programm
+▁Vor b is ▁K omm ent are ditor
+▁Problem informationen ▁werden ▁über m itte l t
+▁Ein ▁V ekt or bild schirm f ot o ▁auf nehmen
+▁Audio - Wiedergabe ▁mit ▁Zeit st re ck ung
+▁Ungültige ▁Anzahl ▁von ▁Argum enten
+▁W : ▁Verzeichnis ▁% s ▁kann ▁nicht ▁ge lesen ▁werden .
+▁Entfernen ▁Sie ▁das ▁Karo - Ass .
+▁Titel eigen scha ften
+▁Weiter e ▁Informationen ▁finden ▁Sie ▁in ▁der ▁Hand buch s ei te .
+▁CD - N r .
+▁B eschreib ungs s ign atur ▁von ▁% s
+▁Alle ▁Titel ▁auswählen
+▁JACK - K e y bo ard
+▁Fehler ▁bei ▁Auf trag s auf zeichn ung ▁für ▁Auf trag s bericht : ▁ERR =% s
+▁Ab g leich ein stellungen
+▁l ier ol ib re
+▁Qt 4 - D es ig ner
+▁Keine ▁ ähnlich en ▁Künstler ▁gefunden
+▁Ex ec - Q u al if iz ierer ▁' i ' ▁ist ▁ungültig , ▁ein ▁Qu al if iz ierer , ▁mit ▁dem ▁ein ▁Kon fli kt ▁be ste ht , ▁wurde ▁bereits ▁angegeben .
+▁em pf ie hl t
+▁Ein ▁Unter ti te le ditor , ▁basieren d ▁auf ▁G St ream er ▁und ▁G tk +
+▁% B : ▁Umwandlung ▁von ▁% s ▁gegen ▁S TT _ G NU _ I F U NC - S ymbol ▁»% s « ▁wurde ▁von ▁% s ▁nicht ▁be han del t
+▁( n icht ▁gefunden )
+▁N utzer s ignal ▁2
+▁App A m or ▁D es kt op - Ein stellungen
+▁Met ad aten ▁der ▁Musik ▁k orr ig ieren ▁...
+▁Unbekannter ▁Befehl
+▁% lu ▁aktualisiert , ▁% lu ▁neu ▁installiert ,
+▁Ab es ▁Auf re gen des ▁A ben te u er
+▁Un ity ▁T we ak ▁T ool
+▁N eg ative ▁Zahl en ▁sind ▁nicht ▁erlaubt
+▁Im ag in ation
+▁Einstellungen ▁kon nten ▁nicht ▁angezeigt ▁werden
+▁An th y ▁– ▁Wörter buch bearbeitung
+▁Ein ▁Spiel ▁zum ▁T ra in ing ▁Ihr es ▁G ed ä cht nis s es
+▁_ K arten st il
+▁Benutzer m ark ierung ▁»% s « ▁wird ▁vom ▁Paket ▁»% s « ▁entfernt .
+▁P r Bo om +
+▁D ream ch ess
+▁Unbekann te ▁Versions aus wahl , ▁ ir gen d et w as ▁ist ▁z ie m lich ▁f alsch .
+▁Fehl geschlagen . ▁Re - In itialis ierung .
+▁f v ▁F I T S ▁E ditor
+▁G ian t
+▁Der ▁Schlüssel ▁»% key :1« ▁ist ▁keine ▁Liste .
+▁B P M ▁er kenn en
+▁Pakete :
+▁Gra v ity ▁War s
+▁Sp in ne ▁mit ▁d rei ▁S ätz en
+▁Der ▁Wert ▁»% v al u e : 2 « ▁wird ▁nicht ▁% ac ce p te d : 3 ▁und ▁ist ▁da her ▁für ▁den ▁Schlüssel ▁»% key :1« ▁ungültig .
+▁G sc ri pt or
+▁p t hre ad _ m ute x _ in it : ▁ERR =% s
+▁» p «: ▁das ▁Paket ▁wird ▁z usätz lich ▁zum ▁Entfernen ▁noch ▁v ollständig ▁ge lö scht .
+▁Ungültiger ▁Eintrag ▁in ▁Tast en zu weis ungs g rupp e : ▁»% s «
+▁ 7 z ip ▁– ▁Komp rim ierungs -/ D ek omp rim ierungs werkzeug
+▁nicht ▁installiert ▁( Kon figur ations dateien ▁vor han den )
+▁Der ▁M axim um - » C ost «- Wert ▁wurde ▁über sch rit ten .
+▁Ungültige ▁Option : ▁% s
+▁Ch ar ak ter is ieren ▁Sie ▁die ▁O b je ktiv ver z err ung
+▁Fehl ende ▁h ex ade z im ale ▁Z i ff er ▁nach ▁\ \ x .
+▁* N icht s *
+▁T ick r ▁– ▁F e ed - L es er
+▁a ll - package s
+▁a con ne ct ▁- i _ BAR _ - o ▁[ Optionen ]
+▁Sprach unter stützung
+▁gef ähr liche ▁Umwandlung
+▁G tk -- ▁Version ▁% d . % d . % d
+▁B l am ▁N e w s fe ed les er
+▁Auf lö s ungs dienst
+▁Client - P rogramm ▁zur ▁Verwaltung ▁von ▁Dateien ▁mit ▁dem ▁Versions kon tro ll system ▁S ub version ▁( S V N )
+▁G T im er
+▁Ein zel h eiten ▁anzeigen
+▁% s : ▁Ges p err t : ▁Die ▁Ausgabe ▁dar f ▁nicht ▁um ge lei tet ▁werden .
+▁Deb ian - Paket betrachter
+▁aber ▁% s ▁soll ▁installiert ▁werden
+▁ + + ▁-- > ▁überspr ingen , ▁nicht ▁re le v an t ▁ la ut ▁Parameter
+▁G w en v iew
+▁St at ist ik ▁zu ▁f r ü h eren ▁Spiel en
+▁B om ber c l one
+▁G n om ad ▁2
+▁Ste ad y f lo w ▁– ▁Download - Ver waltung
+▁_ Z ur ück setzen _ R est art " ▁ is ▁t he ▁m en u ▁ ite m ▁' G ame - > R est art ' , ▁im pl ie s ▁" R est art ▁G ame
+▁Ar it h met ische , ▁w issen schaft liche ▁und ▁f in anz te ch n ische ▁Berech n ungen ▁durch führen
+▁M aus zei ger ▁und ▁Sy mb ole ▁aus ▁M S ▁W ind ow s - k omp at ib len ▁Ress our c end atei en ▁ex tra h ieren
+▁- d , ▁-- def a ul t ▁Die ▁Vor gabe - AC L ▁ausgeben
+▁% s ▁ist ▁ein ▁v irt uell es ▁Paket , ▁berei t gestellt ▁von :
+▁K ur s vor aus setz ung st abellen ▁bearbeiten
+▁W id ge ts ▁für ▁Ihr en ▁Sch reib tisch
+▁Fehl ende ▁St amm - En d ung - K om b in ationen ▁erzeugen
+▁Fil me
+▁Ungültiger ▁Daten satz schlüssel
+▁B etrachter ▁für ▁Quell c ode ab de ck ungen
+▁< file d : ▁f ehler ha f te ▁Attrib ute , ▁3 ▁erwartet , ▁erhalten : ▁% d ▁m s g len =% d ▁m s g =% s
+▁i p 2 k - L ink er : ▁Re d und an te ▁S eiten an weisung ▁bei ▁0 x % 0 8 lx ▁( Z iel ▁= ▁0 x % 0 8 lx ).
+▁die ▁Anzeige ▁der ▁Versions n umm ern ▁um schalten
+▁W ol f 4 S D L
+▁c p u = H C 1 1 ]
+▁Die ▁U r - Q u an ▁M ei ster
+▁% s : ▁s orti erte ▁. c r ange - Ein träge ▁kon nten ▁nicht ▁gesch rieben ▁werden
+▁F angen ▁Sie ▁die ▁B om ben
+▁X B M C - M edi enz ent r um
+▁Zu ▁viele ▁O b je k te
+▁D o ck y
+▁Nach ▁- q = ▁wurde ▁eine ▁N ummer ▁erwartet
+▁Legen ▁Sie ▁eine ▁oder ▁mehr ere ▁Karten ▁auf ▁den ▁leeren ▁Pl atz
+▁Mon te ▁C ar lo
+▁Aufruf : ▁% s ▁[- % s ] ▁d atei ▁...
+▁H ex ter
+▁Sp on c
+▁B uch ▁öffnen
+▁Fort sch r itt liche ▁R unden
+▁J a a a ▁( m it ▁A LS A - Un ter stützung )
+▁Spiel ▁konnte ▁nicht ▁von ▁% s ▁ge laden ▁werden .
+▁S ing les
+▁E v ol u tion ▁Dat a ▁S erver
+▁Kein ▁T i pp ▁verfügbar
+▁Paket - ▁oder ▁Quell paket name ▁kon nten ▁nicht ▁be stimm t ▁werden .
+▁Verb inde ▁zu ▁'% s ' ▁...
+▁{0} ▁k H z
+▁Sp e ed C r un ch
+▁Un t ang le
+▁M D 5 - S um me ▁in ▁der ▁Datei ▁sp eich ern
+▁Gen re
+▁K ü mm ert ▁sich ▁um ▁Ihre ▁I de en .
+▁St ra ß en ▁und ▁G assen
+▁% B : ▁Warnung : ▁Ungültiger ▁Symbol inde x ▁% ld ▁in ▁Zei l enn umm ern
+▁% B % s % b ▁kön nte ▁auf ▁Version ▁% B % s % b ▁aktualisiert ▁werden , ▁wird ▁aber ▁auf ▁Version ▁% B % s % b ▁ge halten .
+▁S MP lay er
+▁V is ualis iert ▁w issen schaft liche , ▁ te ch n ische ▁und ▁an aly tisch e ▁Daten
+▁M IDI - ▁und ▁Audio - S e quenz er ▁s ow ie ▁No ten - E ditor
+▁B ux on
+▁W ird ▁als ▁Nach fol ger ▁des ▁MP 3 - F ormat s ▁ange sehen . ▁A AC ▁er r eicht ▁gen er ell ▁bes ser e ▁Kl ang qu al ität ▁als ▁MP 3 ▁bei ▁n ie d r ig eren ▁Bit r aten .
+▁{0} ▁M B ▁/ ▁{ 1} ▁M B ▁( { 2 } ▁K B / s )
+▁Lin ien ▁z eich nen ▁und ▁der en ▁N ei g ung ▁be st im men
+▁B ier rech ner
+▁Pakete ▁werden ▁entfernt
+▁B etrachter ▁für ▁ent fern te ▁Bild sch ir me
+▁Ein ▁graf isches ▁d i ff - P rogramm
+▁Zu stand L ang
+▁% B : ▁. g ot - Un ter se g ment ▁über sch rei tet ▁ 6 4 K ▁( G r öße ▁% d )
+▁Aktualis ierung ▁auf listen
+▁ist ▁m inde sten s
+▁kann ▁W A V E - Datei - F ormat ▁0 x % 0 4 x ▁nicht ▁ab spiel en ; ▁ist ▁w e der ▁P C M ▁noch ▁F L O AT
+▁J a j u k
+▁J eg lich es ▁Zeichen ▁erwartet , ▁aber ▁Dateien de ▁( E OF ) ▁erhalten .
+▁Er h iel t ▁% s ▁aber ▁nicht ▁die ▁gleich e ▁Datei ▁wie ▁Attrib ute
+▁La den ▁des ▁Z wischenspeicher s
+▁Konnte ▁die ▁Datei ▁»% s « ▁nicht ▁zum ▁Lesen ▁öffnen
+▁T ri ti um
+▁Qu arr y
+▁Profil
+▁Sch reib fehler : ▁% s
+▁K A l geb ra
+▁x m s ke w b
+▁Free P O P s ▁U p d at er
+▁Rech ts
+▁g M F S K
+▁Bibliothek
+▁gesetzt : ▁b uffer _ s iz e ▁= ▁% lu
+▁Fehler : ▁f p 1 6 - F ormat dis k re p anz ▁zwischen ▁% B ▁und ▁% B
+▁Der ▁P f eil ▁war ▁ver g if tet ! ▁Das ▁G i ft ▁war ▁t ö d lich ▁... ▁-- M ehr --
+▁War nen , ▁wenn ▁eine ▁p riv ile g ierte ▁Aktion ▁als ▁nicht - ro ot ▁durch ge führ t ▁werden ▁soll
+▁- m , ▁-- mo di f y = ac l ▁Ver änder e ▁die ▁A C L ( s ) ▁von ▁Datei ( en ) ▁- M , ▁-- mo di f y - file = datei ▁L ie s ▁die ▁A C L - Ein träge ▁aus ▁d atei ▁- x , ▁-- re mo v e = ac l ▁Ent fern e ▁Ein träge ▁aus ▁A C L s ▁von ▁Datei ( en ) ▁- X , ▁-- re mo v e - file = datei ▁L ie s ▁die ▁A C L - Ein träge ▁aus ▁d atei ▁- b , ▁-- re mo v e - all ▁Alle ▁er weiter ten ▁A C L - Ein träge ▁entfernen ▁- k , ▁-- re mo v e - def a ul t ▁Vor gabe - AC L ▁entfernen
+▁Neu es ▁Fenster ▁im ▁_ p riv aten ▁Modus ▁starten
+▁m on o
+▁M at hem at ische ▁G leich ungs lö sung ▁und ▁- zeichn ung ▁( T a schen format )
+▁[ T re ff er ]
+▁g x v at tr
+▁Dienst name
+▁Wiederher stellung ▁gescheitert ▁: ▁Keine ▁Dateien ▁ausgewähl t .
+▁Ungültige ▁P er i o den anzahl ▁% d
+▁d ownload : ▁Sie ▁müssen ▁m inde sten s ▁ein ▁Paket ▁zum ▁Herunterladen ▁angeben .
+▁Es ▁sind ▁% ld ▁A C L - Fehler ▁w ähr end ▁der ▁Sich erung ▁aufge treten .
+▁Anzeige ▁der ▁Be ding ungen , ▁unter ▁den en ▁Sie ▁Aptitude ▁k op ieren ▁und ▁weiter ver t eilen ▁d ür fen
+▁D okum ente
+▁Dateien ▁in ▁Ihre m ▁G it ▁An n ex ▁über wach en ▁und ▁ab gl eichen
+▁GNOME - G lä t tungs werkzeug ▁für ▁Au di od atei en
+▁Die ▁Wiederher stellung ▁m eld et e ▁einen ▁nicht - sch wer en ▁Fehler .
+▁% s - B et re u er ▁ist ▁% s ▁und ▁nicht ▁% s .
+▁Eine ▁Aktualis ierung ▁ist ▁un n ö tig .
+▁C ode c s ▁zum ▁Ab spiel en ▁von ▁MP E G - , ▁D I V X - , ▁MP E G 4 - , ▁A C 3 - , ▁W M V - ▁und ▁A S F - Dateien
+▁Py K ar a ok e
+▁W ur ze le lement ▁des ▁Di a gramm s
+▁Kl ein er ▁und ▁ schn ell er ▁Web k it - Browser
+▁% B (% s +0 x % lx ): ▁un lö s bar e ▁% s - Umwandlung ▁gegen ▁Symbol ▁»% s «
+▁^ Be enden
+▁G U I - Kon figur ations werkzeug ▁F c it x
+▁B etrachter ▁für ▁U I M A - An m erk ungen
+▁T au schen ▁Sie ▁B lö ck e , ▁s od ass ▁sie ▁p assen
+▁Pl att form spiel ▁mit ▁R ä t se le lemen ten
+▁% s ▁Version en
+▁J ack E Q
+▁Ein ▁ schn ell er ▁und ▁sich er er ▁Web b rowser
+▁% s ▁wurde ▁automatisch ▁installiert .
+▁% s : ▁% s : ▁Ein ▁F eld be zeich er ▁wird ▁zum ▁Zu wei sen ▁eines ▁a ss o z i ativ en ▁Ar ra y s ▁benötigt .
+▁Der ▁Ein stell ungs dienst ▁konnte ▁nicht ▁gefunden ▁werden .
+▁Ver schlüssel te ▁W in 3 2- Daten
+▁B arr ier ef rei e ▁T abellen über sch rift
+▁% B : ▁M öglich kei ten ▁zur ▁Ver arbeitung ▁des ▁b etr ie b ss ystem sp e z if ischen ▁Ab schn it ts ▁»% s « ▁nicht ▁be kann t ▁[ 0 x % 8 x ]
+▁oder
+▁G tk H ash
+▁Ar chiv ▁hat ▁kein en ▁Ste u er ungs daten satz .
+▁% sB ▁wurden ▁in ▁% s ▁heruntergeladen ▁(% sB / s ).
+▁Zei ge ger ä te
+▁" T LS ▁K e y " ▁Datei ▁nicht ▁für ▁Dire ct or ▁definiert ▁"% s " ▁in ▁% s .
+▁N C B I ▁Datenbank en ▁in ▁3 D ▁betrachten
+▁N e ver b all
+▁Open box - Kon figur ations verwaltung
+▁W ich tige ▁Vor g änge ▁lauf en
+▁Optionen ▁für ▁Entwick ler ▁und ▁zur ▁Fehler di ag no se
+▁M ode l ▁B u ilder
+▁D is ket te ▁f ormat ieren
+▁T o on lo op - L ive - An im ation sprogramm

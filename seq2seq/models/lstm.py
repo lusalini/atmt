@@ -247,6 +247,9 @@ class LSTMDecoder(Seq2SeqDecoder):
         else:
             tgt_hidden_states = [torch.zeros(tgt_inputs.size()[0], self.hidden_size) for i in range(len(self.layers))]
             tgt_cell_states = [torch.zeros(tgt_inputs.size()[0], self.hidden_size) for i in range(len(self.layers))]
+            if self.layers[0].weight_ih.is_cuda:
+                tgt_hidden_states = utils.move_to_cuda(tgt_hidden_states)
+                tgt_cell_states = utils.move_to_cuda(tgt_cell_states)
             input_feed = tgt_embeddings.data.new(batch_size, self.hidden_size).zero_()
 
         # Initialize attention output node
@@ -308,17 +311,17 @@ class LSTMDecoder(Seq2SeqDecoder):
 
 @register_model_architecture('lstm', 'lstm')
 def base_architecture(args):
-    args.encoder_embed_dim = getattr(args, 'encoder_embed_dim', 512)
+    args.encoder_embed_dim = getattr(args, 'encoder_embed_dim', 32)
     args.encoder_embed_path = getattr(args, 'encoder_embed_path', None)
-    args.encoder_hidden_size = getattr(args, 'encoder_hidden_size', 1024)
+    args.encoder_hidden_size = getattr(args, 'encoder_hidden_size', 128)
     args.encoder_num_layers = getattr(args, 'encoder_num_layers', 1)
     args.encoder_bidirectional = getattr(args, 'encoder_bidirectional', 'True')
     args.encoder_dropout_in = getattr(args, 'encoder_dropout_in', 0.3)
     args.encoder_dropout_out = getattr(args, 'encoder_dropout_out', 0.3)
 
-    args.decoder_embed_dim = getattr(args, 'decoder_embed_dim', 512)
+    args.decoder_embed_dim = getattr(args, 'decoder_embed_dim', 32)
     args.decoder_embed_path = getattr(args, 'decoder_embed_path', None)
-    args.decoder_hidden_size = getattr(args, 'decoder_hidden_size', 1024)
+    args.decoder_hidden_size = getattr(args, 'decoder_hidden_size', 256)
     args.decoder_num_layers = getattr(args, 'decoder_num_layers', 1)
     args.decoder_dropout_in = getattr(args, 'decoder_dropout_in', 0.3)
     args.decoder_dropout_out = getattr(args, 'decoder_dropout_out', 0.3)

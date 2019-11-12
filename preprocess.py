@@ -5,6 +5,7 @@ import os
 import sys
 import re
 import pickle
+import sentencepiece as spm
 
 from seq2seq import utils
 from seq2seq.data.dictionary import Dictionary
@@ -20,6 +21,7 @@ def word_tokenize(line):
 
 def get_args():
     parser = argparse.ArgumentParser('Data pre-processing)')
+    parser.add_argument('--spm', default=False, help='train a SentencePiece model')
     parser.add_argument('--source-lang', default=None, metavar='SRC', help='source language')
     parser.add_argument('--target-lang', default=None, metavar='TGT', help='target language')
 
@@ -105,4 +107,47 @@ if __name__ == '__main__':
     utils.init_logging(args)
     logging.info('COMMAND: %s' % ' '.join(sys.argv))
     logging.info('Arguments: {}'.format(vars(args)))
-    main(args)
+    if not args.spm:
+        main(args)
+    else:
+        spm.SentencePieceTrainer.Train(
+            '--input={0}.{1} --model_prefix={2} --vocab_size=2000 --model_type=bpe'.format(
+                args.train_prefix, args.source_lang, args.source_lang
+            ))
+        spp = spm.SentencePieceProcessor()
+        spp.Load(args.source_lang+'.model')
+        with open(args.train_prefix+'.'+args.source_lang, encoding='utf8') as file, \
+                open(args.train_prefix+'.'+args.source_lang+'.spm', 'w', encoding='utf8') as outfile:
+            for line in file:
+                outfile.write(' '.join(spp.EncodeAsPieces(line))+'\n')
+
+        with open(args.valid_prefix+'.'+args.source_lang, encoding='utf8') as file, \
+                open(args.valid_prefix+'.'+args.source_lang+'.spm', 'w', encoding='utf8') as outfile:
+            for line in file:
+                outfile.write(' '.join(spp.EncodeAsPieces(line))+'\n')
+
+        with open(args.test_prefix+'.'+args.source_lang, encoding='utf8') as file, \
+                open(args.test_prefix+'.'+args.source_lang+'.spm', 'w', encoding='utf8') as outfile:
+            for line in file:
+                outfile.write(' '.join(spp.EncodeAsPieces(line))+'\n')
+
+        spm.SentencePieceTrainer.Train(
+            '--input={0}.{1} --model_prefix={2} --vocab_size=2000 --model_type=bpe'.format(
+                args.train_prefix, args.target_lang, args.target_lang
+            ))
+
+        with open(args.train_prefix+'.'+args.target_lang, encoding='utf8') as file, \
+                open(args.train_prefix+'.'+args.target_lang+'.spm', 'w', encoding='utf8') as outfile:
+            for line in file:
+                outfile.write(' '.join(spp.EncodeAsPieces(line))+'\n')
+
+        with open(args.valid_prefix + '.' + args.target_lang, encoding='utf8') as file, \
+                open(args.valid_prefix + '.' + args.target_lang + '.spm', 'w', encoding='utf8') as outfile:
+            for line in file:
+                outfile.write(' '.join(spp.EncodeAsPieces(line)) + '\n')
+
+        with open(args.test_prefix + '.' + args.target_lang, encoding='utf8') as file, \
+                open(args.test_prefix + '.' + args.target_lang + '.spm', 'w', encoding='utf8') as outfile:
+            for line in file:
+                outfile.write(' '.join(spp.EncodeAsPieces(line)) + '\n')
+

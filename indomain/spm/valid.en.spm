@@ -1,0 +1,500 @@
+▁A ll ▁b o ok s ▁install ed ▁ on ▁t he ▁de v ice
+▁D is p lay ▁an d ▁e dit ▁im age ▁f il es
+▁Un kn own ▁bas ic ▁t ype ▁% d
+▁ & H elp
+▁a c c el erator ▁ la be l
+▁Vol ume ▁p aram et ers
+▁D es c ent ▁1
+▁# B ro k en : ▁% ld
+▁K li pp er
+▁S n ake 4
+▁C o ul d ▁n ot ▁o p en ▁W ri te B oot stra p ▁f ile : ▁% s : ▁ERR =% s
+▁S erv ice ▁Name :
+▁Se le ct ▁a ▁w ind ow ▁t o ▁c apt ur e
+▁En able ▁an d ▁d is able ▁s hell ▁b u il t in s . ▁En ab les ▁an d ▁d is ab les ▁b u il t in ▁s hell ▁c ommand s . ▁D is ab l ing ▁a ll ow s ▁ y o u ▁t o ▁ex ec ute ▁a ▁d is k ▁c ommand ▁w h ich ▁h as ▁t he ▁s ame ▁n ame ▁a s ▁a ▁s hell ▁b u il t in ▁w it ho ut ▁ us ing ▁a ▁f ull ▁p at hn ame . ▁Option s : ▁- a \ t pr in t ▁a ▁l ist ▁o f ▁b u il t in s ▁s h ow ing ▁w h et her ▁ or ▁n ot ▁e ach ▁ is ▁ en able d ▁- n \ t dis able ▁e ach ▁NAME ▁ or ▁d is p lay ▁a ▁l ist ▁o f ▁d is able d ▁b u il t in s ▁- p \ t pr in t ▁t he ▁l ist ▁o f ▁b u il t in s ▁in ▁a ▁re us able ▁f ormat ▁- s \ t pr in t ▁ on l y ▁t he ▁n am es ▁o f ▁P os ix ▁ ` sp ec i al ' ▁b u il t in s ▁Option s ▁ con tro ll ing ▁d ynam ic ▁l o ad ing : ▁- f \ t L o ad ▁b u il t in ▁NAME ▁f ro m ▁s h ar ed ▁ob je ct ▁F I L EN AME ▁- d \ t R em o v e ▁a ▁b u il t in ▁l o ade d ▁w it h ▁- f ▁W it ho ut ▁o ption s , ▁e ach ▁NAME ▁ is ▁ en able d . ▁T o ▁ us e ▁t he ▁ ` te st ' ▁f o und ▁in ▁$ P AT H ▁in ste ad ▁o f ▁t he ▁s hell ▁b u il t in ▁ver sion , ▁t ype ▁ ` en able ▁- n ▁ te st ' . ▁Ex it ▁Status : ▁R et ur n s ▁s u c c ess ▁un l ess ▁NAME ▁ is ▁n ot ▁a ▁s hell ▁b u il t in ▁ or ▁an ▁er r or ▁o c c ur s .
+▁m i a - l mp ick ▁Version ▁0 . 2 . 1 0
+▁Op h c ra ck
+▁ tr ans l ator - c re dit s
+▁F our te en
+▁En han ce d ▁inter ac tive ▁Python ▁s hell
+▁s k i pp ed on
+▁g F TP
+▁C o ul d ▁n ot ▁f et ch ▁ tra ck ▁in form ation
+▁% s : ▁un def ine d ▁ver sion : ▁% s
+▁Ad d ▁d ire ct or ie s ▁t o ▁st ack . ▁Ad d s ▁a ▁d ire ct or y ▁t o ▁t he ▁t op ▁o f ▁t he ▁d ire ct or y ▁st ack , ▁ or ▁ro t at es ▁t he ▁st ack , ▁m ak ing ▁t he ▁n e w ▁t op ▁o f ▁t he ▁st ack ▁t he ▁c ur r ent ▁w ork ing ▁d ire ct or y . ▁W it h ▁n o ▁a r gum ent s , ▁ex ch ange s ▁t he ▁t op ▁t w o ▁d ire ct or ie s . ▁Option s : ▁- n \ t S u pp ress es ▁t he ▁n orm al ▁ch ange ▁o f ▁d ire ct or y ▁w hen ▁a d ding ▁\ t di re ct or ie s ▁t o ▁t he ▁st ack , ▁so ▁ on l y ▁t he ▁st ack ▁ is ▁man ip ul ate d . ▁Argument s : ▁ + N \ t R ot at es ▁t he ▁st ack ▁so ▁t h at ▁t he ▁N th ▁d ire ct or y ▁( co un t ing ▁\ t f ro m ▁t he ▁le ft ▁o f ▁t he ▁l ist ▁s h own ▁b y ▁ ` d ir s ' , ▁st art ing ▁w it h ▁\ tz er o ) ▁ is ▁a t ▁t he ▁t op . ▁- N \ t R ot at es ▁t he ▁st ack ▁so ▁t h at ▁t he ▁N th ▁d ire ct or y ▁( co un t ing ▁\ t f ro m ▁t he ▁ r ight ▁o f ▁t he ▁l ist ▁s h own ▁b y ▁ ` d ir s ' , ▁st art ing ▁w it h ▁\ tz er o ) ▁ is ▁a t ▁t he ▁t op . ▁d ir \ t Ad d s ▁D I R ▁t o ▁t he ▁d ire ct or y ▁st ack ▁a t ▁t he ▁t op , ▁m ak ing ▁ it ▁t he ▁\ t ne w ▁c ur r ent ▁w ork ing ▁d ire ct or y . ▁T he ▁ ` d ir s ' ▁b u il t in ▁d is p lay s ▁t he ▁d ire ct or y ▁st ack . ▁Ex it ▁Status : ▁R et ur n s ▁s u c c ess ▁un l ess ▁an ▁in v al id ▁a r gum ent ▁ is ▁s up pl ie d ▁ or ▁t he ▁d ire ct or y ▁ch ange ▁f ail s .
+▁er r or : ▁% B ▁d o es ▁n ot ▁ us e ▁M a ver ick ▁in st ru ction s , ▁w her e as ▁% B ▁d o es
+▁Ex p ec te d ▁a ▁M ig r ation ▁Job ▁T ype ▁k e y w ord , ▁g ot : ▁% s
+▁Ar p eg g i ator - S e qu en c er - L F O
+▁E l im in ate ▁t he ▁s m all ▁p lay b ack ▁g ap ▁ on ▁ tra ck ▁ch ange . ▁U se f ul ▁f or ▁ con ce pt ▁al bum s ▁an d ▁c l ass ic al ▁m us ic
+▁F ull - text ▁s e ar ch ▁pro gra m ▁f or ▁Sy l p he ed
+▁% P : ▁c an ' t ▁f ind ▁b r an ch ▁st ub ▁ ` % s '
+▁G et :
+▁In v al id ▁ us e ▁d ur ation ▁sp ec if ie d : ▁% s
+▁B arr y ▁D es kt op ▁P an el
+▁% B : ▁s h _ l ink ▁[% d ] ▁in ▁s ec tion ▁ ` % A ' ▁ is ▁in c or re ct
+▁Q V i ag g i a T r en o
+▁Multi p lay er - on l y ▁C l one ▁o f ▁t he ▁f ir st ▁p ers on ▁s hooter ▁D o om
+▁Download s , ▁p ast ▁m on th :
+▁In fo
+▁m is s ing
+▁Un def ine d ▁ch ann el ▁% d
+▁% s : ▁c ann ot ▁s et ▁d ef a ul t ▁a c l ▁ on ▁"% s " : ▁% s
+▁n ame ▁% s ▁l en gt h ▁% d ▁t o o ▁l on g , ▁m ax ▁ is ▁% d
+▁% B (% A ): ▁in tern al ▁er r or : ▁o ut ▁o f ▁ r ange ▁er r or
+▁Ex pl ore ▁Ge om et ri c ▁Con st ru ction s
+▁Imp ort ▁_ M edi a ...
+▁C an ' t ▁d ec ode ▁w ide - ch ar ac ter ▁st r ing ▁a f ter ▁"% s "
+▁O ver ri de ▁re port ' s ▁Ex ec ut able P at h
+▁T he ▁g ame ▁h as ▁n o ▁s ol u tion . ▁Un d o ▁ or ▁st art ▁a g ain .
+▁G w y d d ion
+▁S et ▁Re ad line ▁k e y ▁b ind ing s ▁an d ▁v ariab les . ▁B ind ▁a ▁k e y ▁s e qu en ce ▁t o ▁a ▁Re ad line ▁f un ction ▁ or ▁a ▁m ac ro , ▁ or ▁s et ▁a ▁Re ad line ▁v ariab le . ▁T he ▁n on - option ▁a r gum ent ▁s y nt ax ▁ is ▁e qu iv al ent ▁t o ▁t h at ▁f o und ▁in ▁~ / . in p ut r c , ▁b ut ▁m u st ▁be ▁p as se d ▁a s ▁a ▁s ing le ▁a r gum ent : ▁e . g . , ▁b ind ▁' " \ \ C - x \ \ C - r " : ▁re - re ad - in it - file ' . ▁Option s : ▁- m ▁k e y m ap ▁U se ▁K E Y M A P ▁a s ▁t he ▁k e y m ap ▁f or ▁t he ▁d ur ation ▁o f ▁t h is ▁c ommand . ▁A c ce pt able ▁k e y m ap ▁n am es ▁a re ▁em ac s , ▁em ac s - st andard , ▁em ac s - met a , ▁em ac s - ct lx , ▁v i , ▁v i - mo v e , ▁v i - c ommand , ▁an d ▁v i - in ser t . ▁- l ▁L ist ▁n am es ▁o f ▁f un ction s . ▁- P ▁L ist ▁f un ction ▁n am es ▁an d ▁b ind ing s . ▁- p ▁L ist ▁f un ction s ▁an d ▁b ind ing s ▁in ▁a ▁f orm ▁t h at ▁c an ▁be ▁re us ed ▁a s ▁in p ut . ▁- S ▁L ist ▁k e y ▁s e qu en c es ▁t h at ▁in v ok e ▁m ac ro s ▁an d ▁t h ei r ▁v al u es ▁- s ▁L ist ▁k e y ▁s e qu en c es ▁t h at ▁in v ok e ▁m ac ro s ▁an d ▁t h ei r ▁v al u es ▁in ▁a ▁f orm ▁t h at ▁c an ▁be ▁re us ed ▁a s ▁in p ut . ▁- V ▁L ist ▁v ariab le ▁n am es ▁an d ▁v al u es ▁- v ▁L ist ▁v ariab le ▁n am es ▁an d ▁v al u es ▁in ▁a ▁f orm ▁t h at ▁c an ▁be ▁re us ed ▁a s ▁in p ut . ▁- q ▁f un ction - name ▁Qu er y ▁ab out ▁w h ich ▁k e y s ▁in v ok e ▁t he ▁n ame d ▁f un ction . ▁- u ▁f un ction - name ▁Un b ind ▁a ll ▁k e y s ▁w h ich ▁a re ▁b o und ▁t o ▁t he ▁n ame d ▁f un ction . ▁- r ▁k e y se q ▁R em o v e ▁t he ▁b ind ing ▁f or ▁K E Y S E Q . ▁- f ▁f il en ame ▁Re ad ▁k e y ▁b ind ing s ▁f ro m ▁F I L EN AME . ▁- x ▁k e y se q : s hell - c ommand \ t C aus e ▁S H E LL - C OMMAND ▁t o ▁be ▁ex ec ute d ▁w hen ▁\ t \ t \ t \ t K E Y S E Q ▁ is ▁ en ter ed . ▁Ex it ▁Status : ▁b ind ▁ ret ur n s ▁0 ▁un l ess ▁an ▁un re c og n iz ed ▁o ption ▁ is ▁g iv en ▁ or ▁an ▁er r or ▁o c c ur s .
+▁m en u
+▁In st Ver
+▁% s % s % s : ▁% s ▁( err or ▁t ok en ▁ is ▁"% s " )
+▁P re def ine d ▁S m art ▁P lay list s
+▁un ex p ec te d ▁E OF ▁w h ile ▁l o ok ing ▁f or ▁m at ch ing ▁ ` ) '
+▁K N em o
+▁Version :
+▁Con figur e ▁a ptitu de .
+▁D el et e ▁S m art ▁P lay list
+▁D is k ▁U s age ▁An aly z er
+▁R em o v e ▁t he ▁f ive ▁o f ▁d i am on d s .
+▁No ▁Job ▁f o und ▁f or ▁Job Id ▁% s
+▁Ex tra ▁Gra ph ic s ▁App li c ations
+▁f our ▁o f ▁d i am on d s
+▁S ix te en
+▁O ne ▁I s ▁En o ug h
+▁s li der
+▁-- > ▁R un =% s
+▁J ar g on ▁In format i qu e
+▁A ▁s im p le ▁m us ic ▁ qu iz ▁g ame ▁f or ▁GNU / L in ux
+▁W x G e om etr ie
+▁T ac ti c al ▁G ame
+▁Un de ad
+▁n ame
+▁Un pack ing ▁% s
+▁Media ▁re c ord ▁f or ▁Vol ume ▁"% s " ▁n ot ▁f o und .
+▁Ex am ine ▁t he ▁c ur r ent l y ▁s e le c te d ▁s ol u tion ▁t o ▁t he ▁de p enden c y ▁pro blem s .
+▁M o v e ▁~ a ▁ on t o ▁an ▁em pt y ▁c or ner ▁s l ot .
+▁D o ▁ y o u ▁w an t ▁t o ▁ con t in u e ▁[ Y / n ] ?
+▁Comp let e ▁t he ▁p uzz le ▁b y ▁m at ch ing ▁n um ber ed ▁ ti les
+▁C hem t ool
+▁K A t om ic
+▁Gra ph ic al ▁des ign ▁o f ▁p rim ers ▁f or ▁P C R ▁an d ▁s e qu en c ing
+▁G et ▁ ri d ▁o f ▁t ho se ▁W ing d ow s ▁V ir us es !
+▁Q s ynth ▁ is ▁a ▁F lu id S ynth ▁Qt ▁G U I ▁Inter f a ce
+▁pro file ▁% s : ▁h as ▁m er ge d ▁ ru le ▁% s ▁w it h ▁ con fli ct ing ▁x ▁m o di f ier s
+▁ lem on
+▁No te , ▁s e le ct ing ▁'% s ' ▁in ste ad ▁o f ▁'% s '
+▁_ L ast . fm
+▁C oll e ct ing ▁Problem ▁In form ation
+▁F a ile d ▁t o ▁f et ch ▁% s : ▁% s
+▁S w i ft
+▁C o ul d ▁n ot ▁o p en ▁d at ab as e ▁"% s " .
+▁C ann ot ▁a d d ▁B ac u la ▁k e y ▁t o ▁System ▁Re g istr y
+▁Un able ▁t o ▁o p en ▁% s ▁t o ▁l og ▁a ction s
+▁Blu et oot h ▁Tr ans fer
+▁Er r or : ▁bas ed ir ▁% s ▁ is ▁n ot ▁a ▁d ire ct or y , ▁s k i pp ing .
+▁T he ▁s e le c te d ▁k e y ▁c o ul d n ' t ▁be ▁re mo v ed . ▁C he ck ▁t h at ▁ y o u ▁pro v ide d ▁a ▁v al id ▁f in ger pr in t .
+▁Y our ▁re qu est ▁h as ▁m u lti p le ▁ch o ic es ▁f or ▁"% s " . ▁Se le ction ▁ is ▁n ot ▁p os s ib le ▁in ▁b at ch ▁m ode .
+▁[% s ] ▁% s
+▁A ▁3 - D ▁g ame ▁bas ed ▁ on ▁R ub ik ' s ▁C u be
+▁s y nt ax ▁er r or : ▁o p er and ▁exp ec te d
+▁ + + ▁-- > ▁s k i pp ing , ▁p ar ent ▁ is ▁n ot ▁t he ▁s e le c te d ▁ver sion
+▁% B (% s ): ▁war n ing : ▁inter w ork ing ▁n ot ▁ en able d . ▁f ir st ▁o c c ur r en ce : ▁% B : ▁AR M ▁c all ▁t o ▁T h um b
+▁System ▁Job s
+▁T he ▁a pp li c ation ▁App ort ▁h as ▁st opp ed ▁res p on ding .
+▁C le ar ▁U s age ▁Dat a ...
+▁F ire fo x ▁La un ch p ad ▁p l ug in
+▁M i ro ▁G u ide ▁Podcast ▁Dire ct or y
+▁ 8
+▁L apt op ▁M ode ▁T ool s ▁Con figur ation ▁T ool
+▁% s : ▁bas e - pl us - o ff s et ▁re lo c ation ▁a g ain st ▁re g ist er ▁symbol : ▁( unk n own ) ▁in ▁% s
+▁Comp let el y ▁st op ▁p lay b ack
+▁D op e war s
+▁S h are ▁m o us e ▁an d ▁p o in ter ▁w it h ▁o t her ▁Comp uter s
+▁T he ▁m et h od ▁"% w h at : 1 " ▁ is ▁un im p lemen te d ▁in ▁"% w her e : 2 " .
+▁B att le ▁f or ▁s ur v iv al
+▁S erv ice ▁c ommand ▁l en gt h ▁t o o ▁l on g
+▁L o ad ing ▁{0} ▁- ▁{ 1} ▁o f ▁{ 2 }
+▁Gra ph ic al ▁e ditor ▁f or ▁P S T ri ck s
+▁P ac em ak er ▁G U I
+▁D is p lay ▁f il es ▁in ▁E S R F ▁Dat a ▁Format
+▁T he ▁d is p lay ▁f ormat ▁f or ▁t he ▁st atus ▁l ine
+▁C u st om
+▁C L I P S
+▁T ot al ▁d ist in ct ▁ver sion s :
+▁Un able ▁t o ▁re mo v e ▁"% s "
+▁A ▁C le an ing ▁t ool ▁f or ▁G C on f
+▁h ier ar ch ic al ▁n o te bo ok ▁t o ▁ en ter ▁an d ▁man age ▁n ot es ▁an d ▁ ide as
+▁C l one ▁Job Id ▁% d ▁st arte d .
+▁T o uch ▁T yp ing ▁T ut or
+▁V iew ▁k e y bo ard ▁ lay out
+▁% B (% s ): ▁war n ing : ▁inter w ork ing ▁n ot ▁ en able d . ▁f ir st ▁o c c ur r en ce : ▁% B : ▁t h um b ▁c all ▁t o ▁a r m ▁ con s i der ▁re l ink ing ▁w it h ▁-- s u pp ort - ol d - c ode ▁ en able d
+▁L ib r ar y ▁W at ch er
+▁C re ator
+▁G U I ▁f or ▁v ari o us ▁c omp resse d ▁f ile ▁f ormat s
+▁m en u ▁ ite m
+▁Imp o se ▁PDF ▁d oc um ent s ▁t o ▁c re ate ▁b o ok let s
+▁b p y thon
+▁Re de al s ▁le ft : ▁~ a
+▁X D ot
+▁V al u e
+▁Fl ash c ard s ▁Pro gra m
+▁ q c om ic bo ok
+▁A f ter ▁t h is ▁o p er ation , ▁% sB ▁o f ▁a d di tion al ▁d is k ▁sp a ce ▁w ill ▁be ▁ us ed .
+▁_ T ool s
+▁% sB ▁o f ▁d is k ▁sp a ce ▁w ill ▁be ▁ us ed
+▁Mon it or ▁f or ▁C P U , ▁m em or y , ▁d is k s , ▁n et w ork , ▁m ail
+▁X ser ver ▁a c c ess ▁re st ri ction ▁( def a ul t : ▁d ire ct )
+▁_ G en re :
+▁M al form ed ▁o ver ri de ▁% s ▁l ine ▁% ll u ▁# 2
+▁C ann ot ▁ con ne ct ▁t o ▁c r ash ▁d at ab as e , ▁p le as e ▁ che ck ▁ y our ▁Internet ▁ con ne ction .
+▁H ide ▁t he ▁ us er ▁inter f a ce
+▁Open ▁n e w ▁w ind ow
+▁-- > ▁R un O n F ail ur e =% u
+▁n o ▁l on ger ▁ us ed
+▁F a ile d ▁t o ▁res ol v e ▁a d d ress ▁'% s ': ▁% s
+▁M al form ed ▁o ver ri de ▁% s ▁l ine ▁% ll u ▁# 3
+▁L ic en se ▁GP L v 3 + : ▁GNU ▁GP L ▁ver sion ▁3 ▁ or ▁l at er ▁< ht t p \ : \ / \ / gn u \. org \ / li c ens es \ / g pl \. ht m l >
+▁S at ell ite ▁ tra ck er
+▁B ad ▁s ec tion ▁n ame ▁'% s ' ▁( us e ▁' n one ' , ▁' t op d ir ' , ▁' s ub d ir ' , ▁ or ▁' s ub d ir s ' )
+▁File ▁Man ager ▁pro v ide d ▁b y ▁En l ig h ten ment
+▁A ▁W ord pr ess ▁b log ▁c lient
+▁C lin ic a
+▁C ol on iz e ▁w it h ▁b o ts
+▁war n ing : ▁% s : ▁% s
+▁C o ul d ▁n ot ▁s et ▁"% s " ▁f or ▁% s
+▁S ub sc ri be
+▁% s ▁s et ▁t o ▁automat ic all y ▁install ed .
+▁Se le ct ▁t he ▁f ir st ▁s ol u tion ▁t o ▁t he ▁de p enden c y ▁pro blem s .
+▁Ex ul t ▁U lti m a ▁ 7 ▁En g ine
+▁K am erk a
+▁O kt et a
+▁S im p le B ur n
+▁% B (% A ): ▁war n ing : ▁un al ig ne d ▁a c c ess ▁t o ▁symbol ▁'% s ' ▁in ▁t he ▁s m all ▁d at a ▁a re a
+▁M o v e ▁~ a ▁ on t o ▁an ▁em pt y ▁ r ight ▁s l ot .
+▁C l one ▁o f ▁Sc or che d ▁E ar th
+▁L I NG OT ▁I s ▁N ot ▁a ▁G u it ar - O n l y ▁T un er
+▁f il ter ▁t o ▁s k ip ▁U R L ▁ li ke ▁ con st ru c ts
+▁im pro v ed ▁d ynam ic ▁ til ing ▁w ind ow ▁man ager
+▁Se ar ch ▁f or war d s
+▁I c emon
+▁P C B - S u ite
+▁St art ▁B ack up ▁Job Id ▁% s , ▁Job =% s
+▁t he ▁ qu e en ▁o f ▁d i am on d s
+▁S on y ▁P lay St ation ▁em ulator
+▁le v el ▁b ar
+▁% B : ▁war n ing : ▁a ll oc ate d ▁s ec tion ▁ ` % s ' ▁n ot ▁in ▁s eg ment
+▁Deb ian ▁D oc um ent ation ▁Browser
+▁D is con ne ct ing ▁{0} ...
+▁A ▁t o te m ▁p l ug in ▁t o ▁w at ch ▁st ream s ▁f ro m ▁a r te . t v
+▁P re par ing ▁t o ▁d ownload ▁ch ange lo gs
+▁% S * % N ▁% s ▁[ version ▁% s ] % n
+▁R est ore F il es
+▁Se le ct ▁F ol der
+▁F ro gr
+▁T ag u a
+▁F ol der s
+▁% s : ▁c ann ot ▁l ink ▁n on - f d p ic ▁ob je ct ▁f ile ▁in t o ▁f d p ic ▁ex ec ut able
+▁O d ess a ▁ is ▁a ▁b et ter ▁g ame . ▁Re all y .
+▁Y o ung ▁f ro g ' s ▁a d v ent ur e
+▁H it
+▁E je ct ing ▁{0} ...
+▁P ian o ▁g ame
+▁Aut h or iz ation ▁pro blem : ▁R em o te ▁s erver ▁re qu ir es ▁TLS .
+▁No te ▁T ak er
+▁s c ro ll ▁p an e
+▁a ptitu de ▁f a ile d ▁t o ▁f ind ▁a ▁s ol u tion ▁t o ▁t h es e ▁de p enden c ie s . ▁Y o u ▁c an ▁s ol v e ▁t hem ▁ y our s el f ▁b y ▁h and ▁ or ▁t ype ▁' n ' ▁t o ▁ qu it .
+▁A ▁ us er ▁n ame ▁f or ▁Po st g re S QL ▁m u st ▁be ▁s up pl ie d .
+▁man age ▁re f eren c es ▁an d ▁c it ations ▁in ▁ y our ▁p ub li c ations
+▁T he ▁f orm er ▁ver sion ▁% s ▁o f ▁% s ▁ is ▁al re ad y ▁install ed
+▁P h ot o ▁c oll ec tion ▁c re ativ ity ▁t ool
+▁F ind ▁w h at ▁ y o u ' re ▁l o ok ing ▁f or ▁ on ▁t h is ▁c omp uter ▁b y ▁n ame ▁ or ▁ con ten t ▁ us ing ▁T ra ck er
+▁No ▁p ack age s ▁f o und ▁-- ▁ en ter ▁z er o ▁ or ▁m ore ▁ro o ts ▁o f ▁t he ▁s e ar ch ▁f oll ow ed ▁b y ▁t he ▁p ack age ▁t o ▁j u st if y .
+▁Er r or ▁w rit ing ▁st ate ▁f ile
+▁Ar ti st ▁Name
+▁Py B ri d ge
+▁Sc ien ce ▁p ack age s ▁b rowser
+▁A ▁ graph ic al ▁s h ut d own ▁ u til ity
+▁n on - o ver lay ▁s iz e ▁o f ▁0 x % v ▁p l us ▁m axim um ▁o ver lay ▁s iz e ▁o f ▁0 x % v ▁ex ce ed s ▁l oc al ▁st ore
+▁System
+▁N e w ▁Video ▁CD ▁Pro je ct
+▁C re ate ▁an d ▁e dit ▁e le c tr on ic s ▁pro je c ts ▁w it h ▁x g sch 2 p c b
+▁C hin es e ▁ch ess
+▁Un able ▁t o ▁s et ▁b uffer ▁s iz e ▁% lu ▁f or ▁p lay b ack : ▁% s
+▁F y re
+▁Video ▁s ub ti t l ing ▁f or ▁t he ▁GNOME ▁des kt op
+▁Er r or ▁w rit ing ▁h e ader ▁t o ▁ con ten ts ▁f ile
+▁M IDI ▁ con tro ll able ▁a udio ▁p lay er
+▁C ompil er : ▁g + + ▁% s
+▁S im p le ▁Text ▁E ditor
+▁In v al id ▁S l ot ▁n um ber : ▁% s
+▁c re ate ▁d ic tion ar y ▁a lias es
+▁- l , -- list ▁l ist ▁c ur r ent ▁ con ne ction s ▁o f ▁e ach ▁p ort
+▁C ann ot ▁c re ate ▁re port
+▁L un ch
+▁C o ul d ▁n ot ▁c re ate ▁s ink ▁e lement
+▁U p d ate ▁f in is he d ▁d ownload ing
+▁U se ▁a ▁v ariab le ▁b it rate
+▁t ool ▁ ti p
+▁o ff
+▁Download ing ▁e Mus ic ▁T ra ck ( s )
+▁Se ar ch ▁e Mus ic
+▁Gen erator ▁f or ▁m at h ▁w ork s he et s ▁f or ▁f r en ch ▁c oll e ge
+▁N e w ▁G ame
+▁ q r q
+▁In c re ment al
+▁A ▁ graph ic al ▁ us er ▁inter f a ce ▁f or ▁t he ▁Ar g y ll ▁C M S ▁d is p lay ▁c al ib r ation ▁ u til it ie s
+▁K ern el ▁P an ic
+▁re p la c em ent s ▁l ist ▁f ile ▁n ame
+▁P ump a
+▁In v al id ▁s a f et y ▁le v el ▁"% s " ▁( n ot ▁" dis c ard " , ▁" m axim um " , ▁" min im um " , ▁ or ▁an ▁in te ger ).
+▁k ps
+▁Qu ick ▁No te ▁f ro m ▁C li p bo ard
+▁C le ar
+▁H elp ▁an d ▁D oc um ent ation
+▁Re c ent l y ▁P lay ed
+▁V iew ▁an d ▁man ip ul ate ▁a t om ic ▁an d ▁o t her ▁ch em ic al ▁s ystem s
+▁Un i ver s al ▁L ib r ar y
+▁Un ic ode ▁n orm al iz ation ▁f orm : ▁n one , ▁n f d , ▁n f c , ▁c omp
+▁De p enden c ie s
+▁s e le ct ▁NAME ▁[ in ▁W OR D S ▁... ▁ ; ] ▁d o ▁C OMMAND S ; ▁d one
+▁% B % s % b ▁w ill ▁be ▁install ed .
+▁G ü nt her ' s ▁R S S ▁Re ader
+▁Pro F TP D ▁F TP ▁s erver ▁a d min istr ation
+▁D est ro y ▁ en em y ▁bas es ▁in ▁sp a ce
+▁Tr y ▁m o v ing ▁a ▁c ard ▁t o ▁t he ▁res erv e
+▁L yn is ▁a u dit ing ▁t ool
+▁war n ing : ▁- C ▁o ption ▁m a y ▁n ot ▁w ork ▁a s ▁ y o u ▁exp e ct
+▁C op y r ight ▁( C ) ▁2 00 5 ▁C hr ist ian ▁M as op u st ▁W rit ten ▁b y ▁C hr ist ian ▁M as op u st ▁( 2 00 5 ) ▁Version :
+▁A v a i la b le ▁ up gra des :
+▁l oc ation ▁o f ▁t he ▁m ain ▁w ord ▁l ist
+▁A ▁l ow - l aten c y , ▁h ig h ▁ qu al ity ▁v o ice ▁ch at ▁pro gra m ▁f or ▁g am ing
+▁\ \ % B : ▁War n ing : ▁Ar m ▁B L X ▁in st ru ction ▁t ar ge ts ▁Ar m ▁f un ction ▁'% s ' .
+▁ 5
+▁R es ol v e ▁t he ▁h ost ▁n ame ▁o f ▁t he ▁s e le c te d ▁s erv ice ▁automat ic all y ▁be for e ▁ ret ur n ing
+▁P lay ing ▁C re ative ▁L ab s ▁Ch ann el ▁f ile ▁'% s ' ...
+▁E : ▁Er r or s ▁a p pl y ▁t o ▁f ile
+▁Open ▁Y ah tz e e
+▁St opp ed ▁( t t y ▁in p ut )
+▁In te gr ate d ▁Python ▁De v el op ment ▁En v ir on ment
+▁X our n al
+▁C o ul d ▁n ot ▁c re ate ▁B P M ▁d et ec tion ▁d ri ver .
+▁De p re c ate d : ▁P le as e ▁ us e ▁-- s a fe - up grade
+▁ r l v m
+▁N av it
+▁Con figur e ▁t he ▁s ystem ▁d ef a ul t ▁al tern ativ es
+▁In st an t ▁M es sen ger
+▁Vor b is ▁c omm ent ▁e ditor
+▁U p lo ad ing ▁pro blem ▁in form ation
+▁T ake ▁V e ct or ▁Sc re ens h ot
+▁Audio ▁f ile ▁p lay er ▁w it h ▁ ti me ▁st ret ch
+▁B ad ▁n um ber ▁o f ▁a r gum ent s
+▁W : ▁Un able ▁t o ▁re ad ▁d ire ct or y ▁% s
+▁R em o v e ▁t he ▁a ce ▁o f ▁d i am on d s .
+▁T ra ck ▁Pro p ert ie s
+▁Se e ▁man ▁p age ▁f or ▁d et ail s .
+▁D is c ▁#
+▁D es c ri ption ▁s ign atur e ▁o f ▁% s
+▁Se le ct ▁a ll ▁ tra ck s
+▁JACK ▁K e y bo ard
+▁Er r or ▁get t ing ▁Job ▁re c ord ▁f or ▁Job ▁re port : ▁ERR =% s
+▁Sy n c ▁P re f eren c es
+▁l ier ol ib re
+▁Qt ▁ 4 ▁D es ig ner
+▁No ▁s im il ar ▁a r ti st s ▁f o und
+▁Ex ec ▁ qu al if ier ▁' i ' ▁in v al id , ▁ con fli ct ing ▁ qu al if ier ▁al re ad y ▁sp ec if ie d
+▁re c omm end s
+▁A ▁s ub ti t le ▁e ditor ▁bas ed ▁ on ▁G St ream er ▁an d ▁G tk +
+▁% B : ▁re lo c ation ▁% s ▁a g ain st ▁S TT _ G NU _ I F U NC ▁symbol ▁ ` % s ' ▁ is n ' t ▁h and le d ▁b y ▁% s
+▁( n ot ▁f o und )
+▁U ser ▁s ignal ▁2
+▁App Ar m or ▁D es kt op ▁P re f eren c es
+▁F ix ▁Mus ic ▁Met ad at a ...
+▁un kn own ▁c ommand ▁er r or
+▁% lu ▁ up grade d , ▁% lu ▁n e w l y ▁install ed ,
+▁A be ' s ▁Am az ing ▁Ad v ent ur e
+▁Un ity ▁T we ak ▁T ool
+▁N eg ative ▁n um ber s ▁n ot ▁p er m itte d
+▁Im ag in ation
+▁C o ul d ▁n ot ▁s h ow ▁p re f eren c es
+▁An th y ▁D ic tion ar y ▁e ditor
+▁A ▁m em or y ▁ en han c em ent ▁g ame
+▁_ C ard ▁St y le
+▁R em o v ing ▁ us er ▁t ag ▁"% s " ▁f ro m ▁t he ▁p ack age ▁"% s " .
+▁P r Bo om +
+▁D ream ch ess
+▁Un kn own ▁ver sion ▁s e le ction , ▁s om et h ing ▁ is ▁ver y ▁w ron g .
+▁F a ile d . ▁R est art ing ▁st ream .
+▁f v ▁F I T S ▁E ditor
+▁G ian t
+▁T he ▁k e y ▁"% key : 1 " ▁ is ▁n ot ▁a ▁l ist .
+▁D et e ct ing ▁B P M
+▁P ack age s :
+▁Gra v ity ▁War s
+▁Sp i der ▁T hre e ▁De ck s
+▁T he ▁v al u e ▁"% v al u e : 2 " ▁ is ▁n ot ▁% ac ce p te d : 3 ▁an d ▁ is ▁t h us ▁in v al id ▁f or ▁t he ▁k e y ▁"% key : 1 " .
+▁G sc ri pt or
+▁p t hre ad _ m ute x _ in it : ▁ERR =% s
+▁' p ': ▁t he ▁p ack age ▁w ill ▁be ▁p ur ge d ▁in ▁a d di tion ▁t o ▁b ein g ▁re mo v ed .
+▁In v al id ▁ent r y ▁in ▁k e y b ind ing ▁g ro up : ▁"% s "
+▁ 7 z ip ▁c omp res sion / un c omp res sion ▁t ool
+▁n ot ▁install ed ▁( con figur ation ▁f il es ▁re m ain )
+▁T he ▁m axim um ▁c ost ▁v al u e ▁w as ▁ex ce e de d .
+▁In v al id ▁Option : ▁% s
+▁Ch ar ac ter is e ▁l ens ▁d ist or tion
+▁m is s ing ▁h ex ▁d igit ▁f or ▁\ \ x
+▁* N one *
+▁T ick r ▁- ▁F e ed ▁Re ader
+▁a ll - package s
+▁a con ne ct ▁- i _ BAR _ - o ▁[- option s ]
+▁L ang u age ▁S u pp ort
+▁d an ger o us ▁re lo c ation
+▁G tk -- ▁ver sion ▁% d . % d . % d
+▁B l am ▁F e ed ▁Re ader
+▁R es ol v e ▁S erv ice
+▁A ▁S ub version ▁c lient ▁f or ▁KDE
+▁G T im er
+▁S h ow ▁D et ail s
+▁% s : ▁re st ri c te d : ▁c ann ot ▁re di re ct ▁o ut p ut
+▁Deb ian ▁P ack age ▁V ie wer
+▁b ut ▁% s ▁ is ▁t o ▁be ▁install ed
+▁ + + ▁-- > ▁s k i pp ing , ▁n ot ▁re le v an t ▁a c c ord ing ▁t o ▁p aram s
+▁G w en v iew
+▁St at ist ic s ▁o f ▁g am es ▁p lay ed
+▁B om ber c l one
+▁G n om ad ▁2
+▁Ste ad y f lo w ▁Download ▁Man ager
+▁_ R es et
+▁P er form ▁a rit h met ic , ▁s c ien tif ic ▁ or ▁f in an c i al ▁c al c ul ations
+▁Ex tra ct ▁c ur s or s ▁an d ▁ ic on s ▁f ro m ▁M S ▁W ind ow s ▁c omp at ib le ▁res ource ▁f il es
+▁- d , ▁-- def a ul t ▁d is p lay ▁t he ▁d ef a ul t ▁a c c ess ▁ con tro l ▁l ist
+▁% s ▁ is ▁a ▁v ir tu al ▁p ack age ▁pro v ide d ▁b y :
+▁E dit ▁c our se ▁p r ere qu is ite ▁ch ar ts
+▁W id ge ts ▁f or ▁ y our ▁des kt op
+▁c re ate ▁m is s ing ▁ro ot / a ff ix ▁c om b in ations
+▁M o v ie s
+▁In v al id ▁re c ord ▁k e y
+▁So ur ce ▁c ode ▁c o ver age ▁b rowser
+▁< file d : ▁b ad ▁a t trib ut es , ▁exp ec te d ▁3 ▁f iel d s ▁g ot ▁% d ▁m s g len =% d ▁m s g =% s
+▁i p 2 k ▁l ink er : ▁re d und an t ▁p age ▁in st ru ction ▁a t ▁0 x % 0 8 lx ▁( de st ▁= ▁0 x % 0 8 lx ).
+▁t og g le ▁t he ▁d is p lay ▁o f ▁ver sion ▁n um ber s
+▁W ol f 4 S D L
+▁c p u = H C 1 1 ]
+▁T he ▁U r - Q u an ▁M ast ers
+▁% s : ▁c o ul d ▁n ot ▁w ri te ▁o ut ▁s or te d ▁. c r ange s ▁ent r ie s
+▁C at ch ▁t he ▁B om b s
+▁X B M C ▁Media ▁C en ter
+▁T o o ▁man y ▁ob je c ts
+▁D o ck y
+▁Ex p ec te d ▁a ▁n um ber ▁a f ter ▁- q =
+▁M o v e ▁a ▁c ard ▁ or ▁b u ild ▁o f ▁c ard s ▁ on ▁t o ▁t he ▁em pt y ▁s l ot
+▁Mon te ▁C ar lo
+▁U s age : ▁% s ▁[- % s ] ▁f ile ▁...
+▁H ex ter
+▁Sp on c
+▁Open ▁B o ok
+▁Pro gr ess ive ▁R o und s
+▁J a a a ▁( w it h ▁A LS A ▁s u pp ort )
+▁C o ul d ▁n ot ▁l o ad ▁g ame ▁f ro m ▁% s
+▁S ing les
+▁E v ol u tion ▁Dat a ▁S erver
+▁No ▁hin t ▁a v a i la b le
+▁C o ul d ▁n ot ▁d eter m ine ▁t he ▁p ack age ▁ or ▁s ource ▁p ack age ▁n ame .
+▁Con ne ct ing ▁t o ▁'% s ' ▁...
+▁{0} ▁k H z
+▁Sp e ed C r un ch
+▁Un t ang le
+▁St ore ▁M D 5 ▁s um ▁in ▁t he ▁f ile
+▁Gen re
+▁T ak ing ▁c are ▁o f ▁ y our ▁ ide as .
+▁St re et s ▁An d ▁Alle y s
+▁% B : ▁war n ing : ▁i lle g al ▁symbol ▁in de x ▁% ld ▁in ▁l ine ▁n um ber s
+▁% B % s % b ▁c o ul d ▁be ▁ up grade d ▁t o ▁ver sion ▁% B % s % b , ▁b ut ▁ it ▁ is ▁b ein g ▁h eld ▁a t ▁ver sion ▁% B % s % b .
+▁S MP lay er
+▁V is u al iz e ▁s c ien tif ic , ▁ en g ine er ing ▁an d ▁an aly ti c al ▁d at a
+▁M IDI ▁an d ▁Audio ▁Se qu en c er ▁an d ▁N ot ation ▁E ditor
+▁B ux on
+▁D es ig ne d ▁t o ▁be ▁t he ▁s u c c ess or ▁o f ▁t he ▁MP 3 ▁f ormat , ▁A AC ▁gen er all y ▁a ch ie v es ▁b et ter ▁so und ▁ qu al ity ▁t han ▁MP 3 ▁a t ▁man y ▁b it ▁ r at es .
+▁{0} ▁M B ▁/ ▁{ 1} ▁M B ▁( { 2 } ▁K B / s )
+▁D ra w ▁a ▁d i ag on al ▁l ine ▁an d ▁ch o o se ▁w h ich ▁w a y ▁e ach ▁l ine ▁s l an ts
+▁Be er ▁c al c ulator
+▁R em o v ing ▁p ack age s
+▁R em o te ▁V ie wer
+▁A ▁ graph ic al ▁d i ff ▁pro gra m
+▁L on g St ate
+▁% B : ▁. g ot ▁s ub se g ment ▁ex ce ed s ▁ 6 4 K ▁( s iz e ▁% d )
+▁L ist ▁U p d ate
+▁a t ▁le ast
+▁c an ' t ▁p lay ▁W A V E - file ▁f ormat ▁0 x % 0 4 x ▁w h ich ▁ is ▁n ot ▁P C M ▁ or ▁F L O AT ▁ en c ode d
+▁J a j u k
+▁Ex p ec te d ▁an y ▁ch ar ac ter , ▁b ut ▁g ot ▁E OF .
+▁G ot ▁% s ▁b ut ▁n ot ▁s ame ▁File ▁a s ▁a t trib ut es
+▁L o ad ing ▁c ache
+▁C o ul d ▁n ot ▁o p en ▁t he ▁f ile ▁"% s " ▁f or ▁re ad ing
+▁T ri ti um
+▁Qu arr y
+▁Pro file
+▁w ri te ▁er r or : ▁% s
+▁K A l geb ra
+▁x m s ke w b
+▁Free P O P s ▁ up d at er
+▁R ight
+▁g M F S K
+▁L ib r ar y
+▁w as ▁s et ▁b uffer _ s iz e ▁= ▁% lu
+▁er r or : ▁f p 1 6 ▁f ormat ▁m is m at ch ▁b et we en ▁% B ▁an d ▁% B
+▁T he ▁d art ▁w as ▁p o is on ed ! ▁T he ▁p o is on ▁w as ▁de ad l y ... ▁-- M ore --
+▁War n ▁w hen ▁a t te m pt ing ▁t o ▁p er form ▁a ▁p riv ile ge d ▁a ction ▁a s ▁a ▁n on - ro ot ▁ us er
+▁- m , ▁-- mo di f y = ac l ▁m o di f y ▁t he ▁c ur r ent ▁A C L ( s ) ▁o f ▁f ile ( s ) ▁- M , ▁-- mo di f y - file = file ▁re ad ▁A C L ▁ent r ie s ▁t o ▁m o di f y ▁f ro m ▁f ile ▁- x , ▁-- re mo v e = ac l ▁re mo v e ▁ent r ie s ▁f ro m ▁t he ▁A C L ( s ) ▁o f ▁f ile ( s ) ▁- X , ▁-- re mo v e - file = file ▁re ad ▁A C L ▁ent r ie s ▁t o ▁re mo v e ▁f ro m ▁f ile ▁- b , ▁-- re mo v e - all ▁re mo v e ▁a ll ▁ex ten de d ▁A C L ▁ent r ie s ▁- k , ▁-- re mo v e - def a ul t ▁re mo v e ▁t he ▁d ef a ul t ▁A C L
+▁N e w ▁P _ riv ate ▁B row s ing ▁W ind ow
+▁Mon o
+▁Po ck et ▁M at h ▁Ex p res sion ▁Sol ver ▁an d ▁Pl ot ter
+▁[ H it ]
+▁g x v at tr
+▁S erv ice ▁Name
+▁R est ore ▁f a ile d ▁: ▁n o ▁f ile ▁s e le c te d .
+▁In v al id ▁n um ber ▁o f ▁p er i od s ▁% d
+▁d ownload : ▁ y o u ▁m u st ▁sp ec if y ▁a t ▁le ast ▁ one ▁p ack age ▁t o ▁d ownload
+▁En co unter ed ▁% ld ▁a c l ▁er r or s ▁w h ile ▁d o ing ▁b ack up
+▁V iew ▁t he ▁ ter m s ▁un der ▁w h ich ▁ y o u ▁m a y ▁c op y ▁an d ▁d istr ib ute ▁a ptitu de
+▁D oc um ent s
+▁T ra ck ▁an d ▁s yn c ▁t he ▁f il es ▁in ▁ y our ▁G it ▁An n ex
+▁G n ome ▁W av e ▁C le an er
+▁R est ore ▁j ob ▁re p or te d ▁a ▁n on - f atal ▁er r or .
+▁% s ▁m ain t ain er ▁ is ▁% s ▁n ot ▁% s
+▁T her e ▁ is n ' t ▁an y ▁n e ed ▁f or ▁an ▁ up d ate .
+▁C ode c s ▁t o ▁p lay ▁m p eg , ▁d iv x , ▁m p eg 4 , ▁a c 3 , ▁w m v ▁an d ▁a s f ▁f il es
+▁Py K ar a ok e
+▁Ch art ▁ro ot ▁n ode
+▁S m all ▁an d ▁f ast ▁w eb k it ▁b rowser
+▁% B (% s +0 x % lx ): ▁un res ol v able ▁% s ▁re lo c ation ▁a g ain st ▁symbol ▁ ` % s '
+▁^ Q u it
+▁F c it x ▁G U I ▁Con fig ▁T ool
+▁U I M A ▁An n ot ation ▁V ie wer
+▁S w it ch ▁b lock s ▁so ▁t he y ▁m at ch
+▁Pl at form ▁g ame ▁w it h ▁s ome ▁p uzz le ▁e lement s
+▁% s ▁ver sion s
+▁J ack E Q
+▁A ▁f ast ▁an d ▁s ec ur e ▁w eb ▁b rowser
+▁% s ▁w as ▁install ed ▁automat ic all y .
+▁% s : ▁% s : ▁m u st ▁ us e ▁s ub sc ri pt ▁w hen ▁a ss ign ing ▁a ss oc i ative ▁a r ra y
+▁T he ▁p re f eren c es ▁s erv ice ▁c o ul d ▁n ot ▁be ▁f o und .
+▁En c r yp te d ▁W in 3 2 ▁d at a
+▁A c c ess ib le ▁T able ▁C ap tion
+▁% B : ▁d on ' t ▁k n ow ▁h ow ▁t o ▁h and le ▁O S ▁sp ec if ic ▁s ec tion ▁ ` % s ' ▁[ 0 x % 8 x ]
+▁ or
+▁G tk H ash
+▁Ar chive ▁h as ▁n o ▁ con tro l ▁re c ord
+▁D ownlo ade d ▁% sB ▁in ▁% s ▁(% sB / s ).
+▁Po in t ing ▁de v ic es
+▁" T LS ▁K e y " ▁f ile ▁n ot ▁d ef ine d ▁f or ▁Dire ct or ▁"% s " ▁in ▁% s .
+▁V iew ▁N C B I ▁d at ab as es ▁in ▁3 D
+▁N e ver b all
+▁Open box ▁Con figur ation ▁Man ager
+▁Imp ort an t ▁t as k s ▁a re ▁ r un n ing
+▁Deb ug g ing ▁an d ▁De v el op ment ▁Option s
+▁M ode l ▁B u ilder
+▁Fl opp y ▁Format ter
+▁T o on lo op ▁L ive ▁An im ation ▁E ditor
