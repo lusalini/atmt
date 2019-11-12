@@ -181,11 +181,11 @@ class LSTMDecoder(Seq2SeqDecoder):
 
     def __init__(self,
                  dictionary,
-                 embed_dim=64,
-                 hidden_size=128,
+                 embed_dim=512,
+                 hidden_size=1024,
                  num_layers=1,
-                 dropout_in=0.25,
-                 dropout_out=0.25,
+                 dropout_in=0.3,
+                 dropout_out=0.3,
                  pretrained_embedding=None,
                  use_attention=True,
                  use_lexical_model=False):
