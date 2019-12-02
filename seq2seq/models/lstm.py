@@ -78,12 +78,12 @@ class LSTMEncoder(Seq2SeqEncoder):
 
     def __init__(self,
                  dictionary,
-                 embed_dim=512,
-                 hidden_size=1024,
+                 embed_dim=64,
+                 hidden_size=64,
                  num_layers=1,
                  bidirectional=True,
-                 dropout_in=0.3,
-                 dropout_out=0.3,
+                 dropout_in=0.25,
+                 dropout_out=0.25,
                  pretrained_embedding=None):
 
         super().__init__(dictionary)
