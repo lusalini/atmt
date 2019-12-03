@@ -1,0 +1,21 @@
+======  0 time  =====
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 20.8 60.2/31.2/19.7/13.6 (BP = 0.783 ratio = 0.803 hyp_len = 3226 ref_len = 4017)
+======  1 time  =====
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 20.9 60.5/31.2/19.7/13.5 (BP = 0.785 ratio = 0.805 hyp_len = 3233 ref_len = 4017)
+======  2 time  =====
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 20.8 60.2/31.1/19.7/13.5 (BP = 0.784 ratio = 0.804 hyp_len = 3230 ref_len = 4017)
+======  3 time  =====
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 20.8 60.2/31.1/19.6/13.4 (BP = 0.785 ratio = 0.805 hyp_len = 3234 ref_len = 4017)
+======  4 time  =====
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 20.8 60.2/30.9/19.5/13.4 (BP = 0.789 ratio = 0.808 hyp_len = 3247 ref_len = 4017)
+======  5 time  =====
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 20.8 60.2/30.9/19.5/13.4 (BP = 0.789 ratio = 0.808 hyp_len = 3247 ref_len = 4017)
+======  6 time  =====
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 20.8 60.2/30.9/19.5/13.4 (BP = 0.789 ratio = 0.808 hyp_len = 3247 ref_len = 4017)
+======  7 time  =====
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 20.8 60.2/30.9/19.5/13.4 (BP = 0.789 ratio = 0.808 hyp_len = 3247 ref_len = 4017)
+======  8 time  =====
+======  9 time  =====
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 20.8 60.2/30.9/19.5/13.4 (BP = 0.789 ratio = 0.808 hyp_len = 3247 ref_len = 4017)
+======  10 time  =====
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 20.8 60.2/30.9/19.5/13.4 (BP = 0.789 ratio = 0.808 hyp_len = 3247 ref_len = 4017)

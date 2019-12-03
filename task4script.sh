@@ -2,7 +2,7 @@
 
 max=10
 beamsize=4
-alpha=1
+alpha=6
 
 touch "results_k$beamsize.task4.txt"
 mkdir -p "output_k$beamsize/translated"
