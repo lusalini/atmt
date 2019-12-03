@@ -6,11 +6,15 @@ from queue import PriorityQueue
 
 class BeamSearch(object):
     """ Defines a beam search object for a single input sentence. """
-    def __init__(self, beam_size, max_len, pad):
+    #def __init__(self, beam_size, max_len, pad):
+    #Task 3: Normalization (adjusting initialization)
+    def __init__(self, beam_size, max_len, pad, alpha):
 
         self.beam_size = beam_size
         self.max_len = max_len
         self.pad = pad
+        #3
+        self.alpha = torch.tensor(alpha)
 
         self.nodes = PriorityQueue() # beams to be expanded
         self.final = PriorityQueue() # beams that ended in EOS
@@ -49,8 +53,17 @@ class BeamSearch(object):
             node = self.nodes.get()
             merged.put(node)
 
-        node = merged.get()
-        node = (node[0], node[2])
+        #node = merged.get()
+        #node = (node[0], node[2])
+        #Task 3: Normalization (probability calculation)
+        best_p = 0
+        while not merged.empty():
+            node = merged.get()
+            probability = node[2].eval() / torch.pow(5 + node[2].length, self.alpha) * torch.pow(6, self.alpha)
+            if (best_p == 0 or probability > best_p):
+                best_node = node
+                best_p = probability
+        node = (best_node[0], best_node[2])
 
         return node
 
